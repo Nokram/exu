@@ -27,12 +27,12 @@ const drawControl = new L.Control.Draw({
         featureGroup: drawnItems
     },
     draw: {
-        polyline: true,
-        polygon: true,
-        rectangle: true,
-        circle: true,
-        marker: true,
-        circlemarker: true
+        polyline: false,   // Désactiver le dessin de lignes
+        polygon: false,    // Désactiver le dessin de polygones
+        rectangle: false,  // Désactiver le dessin de rectangles
+        circle: false,     // Désactiver le dessin de cercles
+        marker: true,      // Activer le dessin de marqueurs
+        circlemarker: false // Désactiver le dessin de cercles marqués
     }
 });
 map.addControl(drawControl);
