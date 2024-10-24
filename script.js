@@ -136,7 +136,8 @@ loadGeoJSON();
 // Ajout d'un marker
 const drawControl = new L.Control.Draw({
     edit: {
-        featureGroup: drawnItems
+        featureGroup: drawnItems,
+        remove: false // Désactiver la suppression des objets
     },
     draw: {
         polyline: false,
