@@ -18,13 +18,23 @@ function loadCSV() {
         .then(response => response.text())
         .then(data => {
             const parsedData = Papa.parse(data, { header: true }).data;
+
+            // Filtrer les données avec des lat/lon valides
             parsedData.forEach(row => {
-                const point = {
-                    lat: parseFloat(row.lat),
-                    lon: parseFloat(row.lon),
-                    info: row.info
-                };
-                addSpecificPoint(point);
+                const lat = parseFloat(row.lat);
+                const lon = parseFloat(row.lon);
+
+                // Vérifier si lat et lon sont valides avant d'ajouter le point
+                if (!isNaN(lat) && !isNaN(lon)) {
+                    const point = {
+                        lat: lat,
+                        lon: lon,
+                        info: row.info || 'Aucune info disponible'
+                    };
+                    addSpecificPoint(point);
+                } else {
+                    console.warn(`Point ignoré: lat=${row.lat}, lon=${row.lon} (invalide)`);
+                }
             });
         })
         .catch(error => console.error('Erreur lors du chargement du CSV:', error));
