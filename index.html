@@ -10,8 +10,24 @@
 </head>
 <body>
     <div id="map"></div>
+    <div id="attributeTable" style="display:none;">
+        <table id="attributes" border="1">
+            <thead>
+                <tr>
+                    <th>Latitude</th>
+                    <th>Longitude</th>
+                    <th>Info</th>
+                    <th>X Coord</th>
+                    <th>Y Coord</th>
+                </tr>
+            </thead>
+            <tbody id="attributeBody"></tbody>
+        </table>
+    </div>
+    <button id="toggleTable">Afficher/Masquer Table Attributaire</button>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet-draw/dist/leaflet.draw.js"></script>
-    <script src="script.js"></script> <!-- Lien vers le JavaScript -->
+    <script src="script.js"></script>
 </body>
+
 </html>

@@ -2,8 +2,8 @@
 
 // Initialisation de la carte avec un CRS spécifique (par exemple, EPSG:3857)
 const map = L.map('map', {
-    crs: L.CRS.EPSG3857, // Utilisation du CRS EPSG:3857 par défaut
-}).setView([46.6034, 1.8883], 6); // Centré sur la France métropolitaine avec un niveau de zoom de 6
+    crs: L.CRS.EPSG3857,
+}).setView([46.6034, 1.8883], 6);
 
 // Ajout de la couche de fond
 const layers = {
@@ -22,31 +22,12 @@ const layerControls = L.control.layers({
 const drawnItems = new L.FeatureGroup();
 map.addLayer(drawnItems);
 
-const drawControl = new L.Control.Draw({
-    edit: {
-        featureGroup: drawnItems, // Les éléments dessinés seront ajoutés ici
-        remove: false // Désactive l'option de suppression de la couche
-    },
-    draw: {
-        polyline: false,   // Désactiver le dessin de lignes
-        polygon: false,    // Désactiver le dessin de polygones
-        rectangle: false,  // Désactiver le dessin de rectangles
-        circle: false,     // Désactiver le dessin de cercles
-        circlemarker: false, // Désactiver le dessin de cercles marqués
-        marker: true,      // Activer le dessin de marqueurs
-    }
-});
-map.addControl(drawControl);
-
-// Écoute des événements de dessin
-map.on(L.Draw.Event.CREATED, (event) => {
-    const layer = event.layer;
-    drawnItems.addLayer(layer);
-});
+// Initialisation des variables pour stocker les données
+let geojsonData;
 
 // Fonction pour charger et afficher les données GeoJSON
 function loadGeoJSON() {
-    fetch("exu.geojson")  // Assurez-vous que le fichier GeoJSON est accessible
+    fetch("exu.geojson")
         .then(response => {
             if (!response.ok) {
                 throw new Error('Erreur réseau lors du chargement du GeoJSON');
@@ -54,9 +35,9 @@ function loadGeoJSON() {
             return response.json();
         })
         .then(data => {
+            geojsonData = data; // Stocker les données GeoJSON pour utilisation ultérieure
             const geojsonLayer = L.geoJSON(data, {
                 onEachFeature: function (feature, layer) {
-                    // Ajout d'un événement pour afficher le popup au clic sur le point
                     layer.on('click', function() {
                         const popupContent = `
                             <div>
@@ -69,29 +50,42 @@ function loadGeoJSON() {
                             </div>
                         `;
 
-                        // Crée et ouvre le popup
                         layer.bindPopup(popupContent).openPopup();
                     });
 
-                    // Ajout de la couche à drawnItems pour permettre l'édition
                     drawnItems.addLayer(layer);
                 }
             });
             
-            // Ajouter la couche GeoJSON au contrôle de layers pour l'activer/désactiver
             layerControls.addOverlay(geojsonLayer, "Données GeoJSON");
-            geojsonLayer.addTo(map);  // Ajoute les données à la carte par défaut
+            geojsonLayer.addTo(map);
         })
         .catch(error => console.error('Erreur lors du chargement du GeoJSON :', error));
 }
 
-// Écoute des événements d'édition
-map.on('draw:edited', (event) => {
-    const layers = event.layers;
-    layers.eachLayer((layer) => {
-        // Ici vous pouvez faire quelque chose avec le layer après l'édition
-        console.log('Layer édité:', layer);
+// Fonction pour remplir la table attributaire
+function fillAttributeTable() {
+    const tbody = document.getElementById('attributeBody');
+    tbody.innerHTML = ''; // Réinitialiser le corps de la table
+
+    geojsonData.features.forEach(feature => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+            <td>${feature.properties.Lat}</td>
+            <td>${feature.properties.Lon}</td>
+            <td>${feature.properties.Info}</td>
+            <td>${feature.properties.xcoord}</td>
+            <td>${feature.properties.ycoord}</td>
+        `;
+        tbody.appendChild(row);
     });
+}
+
+// Événement pour afficher ou masquer la table attributaire
+document.getElementById('toggleTable').addEventListener('click', () => {
+    const tableDiv = document.getElementById('attributeTable');
+    tableDiv.style.display = tableDiv.style.display === 'none' ? 'block' : 'none';
+    fillAttributeTable(); // Remplir la table chaque fois qu'elle est affichée
 });
 
 // Charger les données GeoJSON dès que la carte est prête
