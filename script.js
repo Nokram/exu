@@ -12,16 +12,28 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Initialiser le groupe de points spécifiques
 const specificPointsLayer = L.layerGroup().addTo(map);
 
-// Liste des points spécifiques
-let specificPoints = [
-    { lat: 48.8566, lon: 2.3522, info: "Point à Paris" },  // Exemple de point
-    { lat: 43.6045, lon: 1.444, info: "Point à Toulouse" }  // Exemple de point
-];
+// Fonction pour charger le fichier CSV et ajouter les points
+function loadCSV() {
+    fetch('exu.csv')
+        .then(response => response.text())
+        .then(data => {
+            const parsedData = Papa.parse(data, { header: true }).data;
+            parsedData.forEach(row => {
+                const point = {
+                    lat: parseFloat(row.lat),
+                    lon: parseFloat(row.lon),
+                    info: row.info
+                };
+                addSpecificPoint(point);
+            });
+        })
+        .catch(error => console.error('Erreur lors du chargement du CSV:', error));
+}
 
 // Fonction pour ajouter un point spécifique
 function addSpecificPoint(point) {
     const marker = L.marker([point.lat, point.lon]).addTo(specificPointsLayer);
-    
+
     // Afficher l'infobulle au survol
     marker.bindTooltip(point.info || '', { permanent: true, direction: 'top' });
 
@@ -43,15 +55,14 @@ function addSpecificPoint(point) {
         const markerPosition = e.target.getLatLng();
         point.lat = markerPosition.lat;
         point.lon = markerPosition.lng;
-
-        // Mettre à jour l'infobulle
-        marker.bindTooltip(point.info || '', { permanent: true, direction: 'top' });
-        console.log(`Point déplacé à: ${point.lat}, ${point.lon}`);
     });
 
     // Rendre le marqueur déplaçable
     marker.dragging.enable();
 }
+
+// Charger les points à partir du fichier CSV au démarrage
+loadCSV();
 
 // Fonction pour afficher la modale
 function showInfoModal() {
@@ -71,7 +82,7 @@ document.getElementById('saveInfo').addEventListener('click', () => {
 
     // Mettre à jour l'infobulle
     specificPointsLayer.clearLayers();
-    specificPoints.forEach(point => addSpecificPoint(point));
+    loadCSV();  // Recharger les points pour mettre à jour l'affichage
 });
 
 // Événement de clic pour annuler les modifications
@@ -79,5 +90,10 @@ document.getElementById('cancelInfo').addEventListener('click', () => {
     document.getElementById('infoModal').style.display = 'none';
 });
 
-// Ajouter les points spécifiques initiaux
-specificPoints.forEach(point => addSpecificPoint(point));
+// Ajouter une couche de contrôle
+const overlayMaps = {
+    "Points Spécifiques": specificPointsLayer
+};
+
+// Ajouter le contrôle des couches
+L.control.layers(null, overlayMaps).addTo(map);
