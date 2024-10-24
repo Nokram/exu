@@ -43,6 +43,14 @@ map.on(L.Draw.Event.CREATED, (event) => {
     drawnItems.addLayer(layer);
 });
 
+// Écoute des clics sur la carte pour ajouter un marqueur
+map.on('click', function(e) {
+    const popup = L.popup()
+        .setLatLng(e.latlng)
+        .setContent("Vous avez cliqué sur la carte à : " + e.latlng.toString())
+        .openOn(map);
+});
+
 // Fonction pour charger et afficher les données GeoJSON
 function loadGeoJSON() {
     fetch("exu.geojson")  // Assurez-vous que le fichier GeoJSON est accessible
