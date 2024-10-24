@@ -13,7 +13,10 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 const specificPointsLayer = L.layerGroup().addTo(map);
 
 // Liste des points spécifiques
-let specificPoints = [];
+let specificPoints = [
+    { lat: 48.8566, lon: 2.3522, info: "Point à Paris" },  // Exemple de point
+    { lat: 43.6045, lon: 1.444, info: "Point à Toulouse" }  // Exemple de point
+];
 
 // Fonction pour ajouter un point spécifique
 function addSpecificPoint(point) {
@@ -50,25 +53,6 @@ function addSpecificPoint(point) {
     marker.dragging.enable();
 }
 
-// Fonction pour charger les points depuis le CSV
-function loadCSV() {
-    Papa.parse('exu.csv', {
-        download: true,
-        header: true,
-        complete: function(results) {
-            specificPoints = results.data.map(row => ({
-                lat: parseFloat(row.lat),
-                lon: parseFloat(row.lon),
-                info: row.info
-            }));
-            specificPoints.forEach(point => addSpecificPoint(point));
-        },
-        error: function(err) {
-            console.error("Erreur lors du chargement du CSV:", err);
-        }
-    });
-}
-
 // Fonction pour afficher la modale
 function showInfoModal() {
     document.getElementById('infoModal').style.display = 'block';
@@ -95,5 +79,5 @@ document.getElementById('cancelInfo').addEventListener('click', () => {
     document.getElementById('infoModal').style.display = 'none';
 });
 
-// Charger les points initiaux depuis le CSV
-loadCSV();
+// Ajouter les points spécifiques initiaux
+specificPoints.forEach(point => addSpecificPoint(point));
