@@ -50,7 +50,7 @@ function addSpecificPoint(point) {
     marker.dragging.enable();
 }
 
-// Fonction pour charger le CSV
+// Fonction pour charger les points depuis le CSV
 function loadCSV() {
     Papa.parse('exu.csv', {
         download: true,
