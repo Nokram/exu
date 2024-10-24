@@ -1,0 +1,11 @@
+/* style.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    height: 600px; /* Hauteur de la carte */
+    width: 100%;   /* Largeur de la carte */
+}

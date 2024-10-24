@@ -1,0 +1,3035 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.29654,49.21608 ]
+    },
+    "properties": {
+    "Info":" Solvalor CAEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.80195,47.43679 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.43361180000001&lng=0.7423716&fid=0x47fcd388a62f2095:0x34b3885aacb0d36c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Geoffrey DRUGEON : 06 31 66 31 73 geoffrey.drugeon@ortec.fr Mickaël ABGUILLERM : 06 34 37 34 17 mickael.abguillerm@ortec.fr Yann OLANIER : 06 27 16 49 32 yann.olanier@ortec.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -1.00331,44.56807 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.5680694&lng=-1.0033081999999998&fid=0xd5491e3a1e7f819:0x61935b2279f6aed0&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées joffrey.caron@solvalor.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.97306,43.45535 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.455287899999995&lng=1.9731199000000004&fid=0x12ae5d437bf6c637:0x44db7a07646f422c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées \t\t\tMadame MOREAU mmoreau@seps-france.fr Monsieur Cazeres scazeres@seps-france.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.80218,45.62325 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.623246699999996&lng=4.8021826999999995&fid=0x47f4e7ecaad484ed:0x2cb0f41526d95e65&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Amiante Cimant / Amiante libre / Vinyl Amiante / Terre Polluée\tTerre Végétale\tDéchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluéePierre Alban MAISTRE\t06 16 53 31 66\tpamaistre@revaga.comISDI+ BIOCENTRE !"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.29677,43.88463 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.8837303&lng=1.29603395&fid=0x12ac05e11c961bdf:0xac78f2c24eeb2cd2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>brice.rouzies@ortec.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.77103,48.66392 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.6639175&lng=7.7710289&fid=0x4796c7674bbb6341:0xcd0868f4136fc05e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI\t\tBiocentre03 67  34 34 21elodie.lopes@ecoterem.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.15891,49.23605 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.2360111&lng=6.158919849999999&fid=0x479527065ccd0bcb:0xf44471abbf3ad769&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux  Déchets Non-Dangereux Biocentre  03 20 85 31 80Marina CONCAS <marina.concas@ortec.fr>Thibault BLONDE <Thibault.BLONDE@ortec.fr>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.80195,47.43679 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.43361180000001&lng=0.7423716&fid=0x47fcd388a62f2095:0x34b3885aacb0d36c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Geoffrey DRUGEON : 06 31 66 31 73 geoffrey.drugeon@ortec.fr Mickaël ABGUILLERM : 06 34 37 34 17 mickael.abguillerm@ortec.fr Yann OLANIER : 06 27 16 49 32 yann.olanier@ortec.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.65109,48.60983 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.3646&lng=7.28588&fid=0x4796b76dcc4b8ee9:0xe3a6ce244aa1d38e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.00329,45.44167 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.2737&lng=6.40865&fid=0x478a52b791553def:0x926d7c3f8af00b92&hl=fr&gl=fr&client=earth-client&cv=7.3.4.8642&useragent=GoogleEarth/7.3.4.8642(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" ISDI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" ISDD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" ISDND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" ISDD+ISDI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" ISDI +ISDND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" ISDI+ISDD+ISDND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" BIOCENTRE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" Plateforme / déchetterrie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.52666,44.95931 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.7831&lng=-0.781863&fid=0xd552b80f966bd29:0x634bb12579b92bd3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Caoutchouc (pneus)05 56 77 19 19jc.celhay@alcyon-recyclage.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.18625,47.79045 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.79866489999999&lng=7.18962355&fid=0x479181475293c8ad:0xdb54ebe9512877b6&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets DangereuxDéchets Non-DangereuxDéchets Inertes\"\tDéchets Non-DangereuxAmandine GRUSSON\t06 30 57 57 62\tamandine@cernay-environnement.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  180.00000,82.92909 ]
+    },
+    "properties": {
+    "Info":" ISDD+ISDND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.42816,45.34381 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.34374199999999&lng=5.428135299999999&fid=0x478adcc4ec7f3191:0xa556b63295beb754&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDIconctact@arcencielrecyclage.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.40734,49.89523 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.8952281&lng=4.4073351&fid=0x47e9ffb9f749dbf1:0x74d1ad8a2afc7a76&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux\t03 24 54 32 57bascule.eteignieres@arcavi.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.08771,45.84158 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.84273785&lng=5.10354145&fid=0x47f4b701875c9507:0x601882f4dba8a8b0&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\t\t04 72 25 44 37\tmdruet@arg01.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.80124,50.29183 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.291829&lng=2.8012185&fid=0x47dd4841a7dc2c09:0xb8901340a28b07e8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux\tDéchets Non-Dangereux Non InertesThomas RINGEVAL\t07 85 41 11 32\tcontact@artois-metaux.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.32433,50.72990 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.729881&lng=2.3245412&fid=0x47dc5590f0fc491f:0x3f0e9bfdecb428e8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux /Déchets Non Dangereux /Déchets InertesMr LELONG\t03 21 93 60 60 \tlelong@astradec.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.54103,44.92332 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.805195000000005&lng=0.9577435500000001&fid=0xd552959b465ebd5:0x669aca8f2d837fe&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>POHYER Cédric\t07 79 46 93 13Papiers   Cartons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.97771,50.60004 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.60004099999999&lng=2.9777139999999997&fid=0x47dd2b1f11ec285b:0x307613d0b3ad8c81&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets Dangereux / Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux InertesMERLANT Thomas\t06 07 16 64 90\tt.merlant@baudelet.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.08082,47.16379 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.1637877&lng=6.0808173&fid=0x478d7bb55d530d7b:0x9dbbf1f5db601c3f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Amiante Cimant / Amiante libre / Vinyl Amiante / Terre Polluée\tTerre Végétale\tDéchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tJean Claude BONNEFOY 03 81 55 93 00 jc.bonnefoy@groupe-bonnefoy.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.14639,50.52134 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.519343199999994&lng=3.1492503499999995&fid=0x47c2d1ee3009dbad:0x289c15313a69f344&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI ISDI +Nicolas MEURIN03 20 17 01 10nicolas.meurin@bdn.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -3.19944,47.35304 ]
+    },
+    "properties": {
+    "Info":" OM résiduelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.41141,43.67686 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.676864599999995&lng=1.411406&fid=0x12aea44e16d3c8a1:0x9fefb17cfd90a330&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.72745,48.64043 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.64292515&lng=2.7225052&fid=0x47e5fe85ea7286bd:0xe702b0c0f460efe3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets DangereuxDéchets Non-Dangereux  Déchets Inertes Déchets Non-DangereuxXavier GUICHARD 01 64 06 62 80\txguichard@bigbennes.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.31908,45.98190 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.9818992&lng=5.3190832&fid=0x478b53ab1f2a687f:0x997bc11d100d1b6c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre polluée /Terre VégétaleFrançois Le Pennec    06 13 04 59 08   francois.lepennec@biogenie-env.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.39564,48.58623 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.577448149999995&lng=2.4188375&fid=0x47e5dc44e6e58c37:0x52ddf61947c3f493&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Isdd orgornique\tIsdnd biocentre\tValorisation ISDI Bétons Yohan SEINE\t06 07 07 20 32 - 01  64 56 78 14yohan.seine@englobecorp.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.73780,49.69761 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.697609199999995&lng=4.7378039&fid=0x47ea13c0142e4129:0x6b02bd08ea200684&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets DangereuxDéchets Non-DangereuxDéchets Inertes\"\tDéchets Non-DangereuxBiocentre01 34 70 64 60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.03425,47.29920 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.299202&lng=5.0342509999999985&fid=0x47f29dcb5e52052d:0x4512016be6a08412&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>métaux ferreux déchets industriels déchets mégers\tMme COBOS\t 03 80 26 59 40\tassistante-co@bourgognerecyclage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.60647,48.87166 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.8696061&lng=2.6096526&fid=0x47e61038a011f901:0xc2822773250b5eaa&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Revalorisation de Granulats Déchets de chantier\t\t\"Tel 01 48 50 04 30/ Fax 01 48 47 53 42\"\trecyclage@bouvelot-tp.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.34071,48.74015 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.7397411&lng=2.3401712&fid=0x47e6768956f46295:0x21a4af79bf11eba2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Revalorisation de Granulats/ Déchets de chantier\t\tTel : 06 09 82 39 92contact@bouvelot-tp.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.85948,47.36533 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.365331999999995&lng=-0.859462&fid=0x4806242d70e444e5:0xff51cb93eb581494&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Gestion déchets non dangereux recyclageCapacité réglementaire 90000 +33 5 49 71 36 86"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.92011,47.04186 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.04110144999999&lng=-0.9209006499999999&fid=0x480643c5c7e918c7:0x4508d6ed5fff54f2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Gestion déchets non dangereux recyclage\t\t33 2 41 58 87 86"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.22037,46.64523 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.6452209&lng=-0.2203648&fid=0x48076e6ef0211f37:0xeee9bfc4228a0ec8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>33 5 49 71 36 86 / 06 26 48 75 22 Gestion déchets non dangereux recyclage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.25230,47.19601 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.196009&lng=-0.25230119999999995&fid=0x4807ebf29c114889:0x81948838fc41bd22&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> Gestion déchets non dangereux recyclage02 41 83 11 83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.72828,47.44829 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.4482851&lng=0.7282777&fid=0x47e32b8e392ecc87:0x977156d569f57499&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées \t GOUBERT Marie\t02 47 37 00 59 \tmarie.goubert@bsenvironnement.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.77946,44.78645 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.7864261&lng=-0.7795023000000001&fid=0xd54c4913e874193:0xc3668a429c8219f1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées  / Déchets solides   / Ballast de voie / Déblais pollués brice.rouzies@ortec.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.94497,44.63659 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.6365852&lng=-0.9449703999999999&fid=0xd5493747cb9ba7b:0xc52b141d8ba2fb34&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Bois non traité (Cat A)    Biganos 06 07 43 65 00 contact@btfbiganos.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.99952,50.60560 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.60771585&lng=2.9997900999999993&fid=0x47dd2ad2e6cddc5d:0x5ffb607f764fd3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets DangereuxDéchets Non-Dangereux Déchets Inertes Déchets Non-Dangereux\t\tLhassan BOUMSSIMRAT\t 06 99 81 14 34\t\tCarrière des cimentsbts.haubourdin@free.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.43996,45.34469 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.345022400000005&lng=5.443642699999999&fid=0x478adce71da228c5:0x6c0991d70616674&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDND ISDI04 76 37 32 72carine.gherardi@eiffage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.38451,48.82428 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.824276&lng=2.3845088999999997&fid=0x47e6731080890249:0x97b69517229e75a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux03 87 70 84 84Iledefrance@ciments-calcia.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -4.24018,47.83351 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.832221999999994&lng=-4.2400259999999985&fid=0x481731f0c38018a9:0x64816f8304b1a799&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>DIB\t\t02 97 67 50 66/ 02 98 87 80 58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.58023,45.97851 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.97851389999999&lng=5.5802268&fid=0x478b5dc0bf52b42b:0x6d7617f1525d4a9a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Béton / Enrobé bitumineux / Terre non polluée\t\t04 74 76 96 44 rhoneaples@groupecb.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.40981,45.44884 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.549415499999995&lng=4.3603451&fid=0x47f5abef9baf912d:0x1619fe9074eefadd&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tLaurent STRIPPOLI 04 77 54 48 09\tlaurent.strippoli@spc-chaux.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.02702,45.67642 ]
+    },
+    "properties": {
+    "Info":" Déchets Inertes mélangés / Béton / Terre non polluée\tT VERNEUILH\t04 72 48 10 60 contacts.clients@geocycle.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.00783,45.67384 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.67215945&lng=5.008927699999998&fid=0x47f4c5732f9ee483:0x6e26a77932e2f958&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre Végétale\tDéchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tManuel DUSSURGEY\t06 07 86 54 78\tmanuel.dussurgey@cbr69.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.48079,46.36186 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.361862699999996&lng=2.480787&fid=0x47fa0f3b41bb1bc9:0xafc256925dcc3058&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tEric LAFAYE\t06 21 83 41 42\teric.lafaye@lafarge.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.39698,45.46041 ]
+    },
+    "properties": {
+    "Info":" Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tLaurent THOMAS\t04 77 54 41 68\te.vilvert@carrieres-thomas.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.90975,47.14287 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.12352554999999&lng=4.908286499999999&fid=0x47f28e408cd5c1ef:0xaf9ace766b7f4e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Terre non polluée\tLaurent BRIOT\t03 80 62 97 97\tlaurent.briot@holcim.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.32676,45.43848 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.272694800000004&lng=4.5101003&fid=0x47f5af2a5364bcd3:0xed890bc10982d7b1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tMichael LAURENT 06 26 77 41 12\t michael.laurent@cemex.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.82609,48.79669 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.59162055&lng=7.71864015&fid=0x4796eaf43110f189:0x8917e53c18b45d8b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>03 88 77 41 50environnement.lorraine@lingenheld.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.64642,48.60763 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.5551&lng=7.796350000000001&fid=0x4796b7a8d4b57f09:0x69454391acb1fe26&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> ISDND\t ISDI+\tIngénieur Sites et Sols Pollués  Lisa KEMPF \"\t\"03.88.77.41.41 | 06.95.89.06.16 lisa.kempf@lingenheld.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.13354,45.90648 ]
+    },
+    "properties": {
+    "Info":" Déchets Inertes mélangés / Béton /Terre non polluée\tSandra POUMEROL 04 73 63 78 78 sandra.poumerol@colas-ra.com\tRue Johannes Brahms - 63200 RIOM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.53089,47.70445 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.7044464&lng=-2.5308946000000003&fid=0x480fe9114e03cd15:0x3c963cd9ee98c991&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>DIB 02 97 67 50 6657500 t/anj.dehedin@groupe-séché.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.56746,48.76610 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.766077599999996&lng=4.5673816&fid=0x47ebf22fb74c4515:0x1b7a3dbcdc296a43&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>03 26 73 63 00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.96851,48.69124 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.691219000000004&lng=6.9683324&fid=0x479412c05ffc8807:0x6bcaf8e58624cc41&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> laurence.deliot@eqiom.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.11065,48.56326 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.5632326&lng=6.1106148&fid=0x4794a07ab83279ed:0xfcaa3758b0ffa82f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.42518,46.25447 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.2544721&lng=3.4251833&fid=0x47f131c1c336370d:0xb8effd0d9d232b68&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre polluéeEric BUREAU\t06 82 99 79 93\teric.bureau@vicat.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.81834,43.43671 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.436714699999996&lng=1.8183406000000006&fid=0x12aef5656f637fc1:0x115d7e323673ee65&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> Regroupement de déchets dangereux Centre de recyclage inertesVéronique NEROCAN\t05 61 81 68 22 /05 62 18 35 14\tveronique.nerocan@cler-verts.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.97527,45.72874 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.728738&lng=4.9752752&fid=0x47f4c69815b76661:0xe171649ebeaffe46&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tAnthony STAL\t04 78 90 10 50\tanthony.stal@staltp.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.94925,46.74317 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.71811495&lng=2.9080245&fid=0x47f08b2df85d262d:0x2714d682c251ea66&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tNicolas MANSSENS  06 84 95 64 44  nicolas.manssens@colas.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -3.22804,47.86537 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.865372199999996&lng=-3.228043&fid=0x481045684036c729:0xb6e38c699ce2e36f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>déchets non dangereux\t\t\t02 90 74 71 0043000 t/an"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.51837,49.05879 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.058786&lng=2.5183739999999997&fid=0x47e63f69f306437d:0xa47b8e9637efb7cc&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD Recyclage et ecotri    \t\tISDI 01 34 29 36 00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.47910,49.06609 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.0588&lng=2.51837&fid=0x47e63f634dc2bf57:0x55c9df4a57f24200&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI                     \t\tTél : 01 34 71 20 81/ Fax : 01 34 71 21 82\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.69346,49.21151 ]
+    },
+    "properties": {
+    "Info":" ISDI                     \t\tTél : 01 30 29 02 00/Fax : 01 30 29 01 60\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.41989,48.92770 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9695685&lng=2.4487147499999997&fid=0x47e66dfe5ddba687:0x96f89d4c78a465e3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\t\tISDITél : 01 30 29 02 00 /Fax : 01 30 29 01 60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.19935,43.29468 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.29208455&lng=1.1990034&fid=0x12a92d24d5b24d3d:0x31838c9257a66005&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de regroupement bois/Plateforme de regroupement DEEEDéchèterie professionnelleOlivier PONTI\t05 61 97 67 37\to.ponti@corudo.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.90846,49.27378 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.2737846&lng=3.9084556999999993&fid=0x47e90a38ad9e0857:0xc39ad6ee7cc22354&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets DangereuxDéchets Non-DangereuxDéchets Inertes\"\tDéchets Non-DangereuxRomain THIEBAULT\t03 26 47 23 51\tromain.thiebault@cotrev.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.22097,46.98967 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.96713989999999&lng=1.3501169500000003&fid=0x47fc9c98a844a0b3:0x8c2106d78644ea1f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.96006,47.13629 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.13633360000001&lng=0.9599692000000003&fid=0x47fcc01fa9467763:0x4053dc73866fdc5b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Capacité 15000002 47 91 28 50Gestion de déchets  proximité et d'autres déchets"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.28301,46.13277 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.1192&lng=5.272760000000001&fid=0x47f3556a3262a585:0x41bdffd64af911dd&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre Végétale\tBéton / Enrobé bitumineux / Terre non polluée\tThierry DANNENMULLER 04 74 22 21 45 tltp.dannenmuller@dannenmuller.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.46821,51.19418 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=51.1939354&lng=3.4692220000000007&fid=0x47c3675eaf07571b:0xd4d179e71ecba79e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées\t\tt+32 50 72 87 30 f: +32 50 71 75 71\"\tsales@debree.be"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.51396,47.11088 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.1108762&lng=5.5139591999999995&fid=0x478d4cf7f42e9aa3:0xb3929b825de62330&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux/ Déchets Non-Dangereux/ Déchets Inertes03 84 82 56 19contact@sictomdole.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.97021,44.34687 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.346874199999995&lng=1.9702081999999999&fid=0x12ada8609e6d26db:0xad1c5762f5bacb8b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de regroupement déchets inertes05 65 81 16 49nancy.lacombe@groupepena.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.84704,48.36789 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.3678927&lng=2.8470443999999997&fid=0x47ef5e1c8818c8c1:0xe18790afef46d909&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets DangereuxDéchets Non-DangereuxDéchets Inertes\"\tDéchets Non-DangereuxAntoine Pedilla\t01 60 74 00 20\tap@depolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.05744,50.69282 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.69281720000001&lng=3.0574389999999996&fid=0x47c32ba7f23e94bb:0x123458e1cf6fd582&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Sédiment \tPhilippe DUCHESNE | Ingénieur d’affaires\t\"M Belgique : +32 478 93 48 62M France : +33 6 72 23 95 89\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.55717,50.44044 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.440439&lng=4.557169999999999&fid=0x47c22918de0ad9a3:0x174d879b920d609a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>+32 71 25 60 41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.17481,50.70811 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.708107399999996&lng=4.1748107999999995&fid=0x47c3b617fa599c41:0xe33fa63172618cbf&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>BiocentreTraitement Physico-chimique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.37150,44.92320 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.9194656&lng=-0.37538369999999993&fid=0xd5536aa44202e89:0x4cdf4ed862e11f28&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Férailles & Métaux Papiers Cartons Plastiquebascule.izon@derichebourg.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.00521,47.32573 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.325728999999995&lng=6.005211999999999&fid=0x47929db1fd72bed9:0x92af0591de137134&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets Non-DangereuxDéchets Inertes\"\tDéchets Non-Dangereux\t\tMme COBOS\t 03 80 26 59 40\tassistante-co@bourgognerecyclage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.42209,43.64674 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.6467358&lng=1.4220884000000003&fid=0x12aea4c03670af13:0x219798cdc6fbee94&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets ménagers hors collecte sélective Terres polluées non valorisablesAlain VOISIN 05 63 23 15 55 a.voisin@groupe-seche.com 44 impasse de la Glacière"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.22978,43.98666 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.986664399999995&lng=1.229779&fid=0x12ac09ce148d38cf:0x40a113fc0fdcd93d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Centre de Tri des collectes sélectives Déchèterie professionnelle\tCentre de Tri des Déchets des Activités Economiques\tInstallation de Stockage des Déchets Non Dangereux Eaux souillées aux hydrocarburesAlain VOISIN\t05 63 23 15 55\ta.voisin@groupe-seche.com\t3525 ROUTE DE LAVILLEDIEU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.38040,50.69391 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.68985004999999&lng=2.4011110999999996&fid=0x47dcfdb2290bfce1:0x86cebd8e56efcb60&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux / Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\"\t \tANDECAVEYE Pierre Laurent\t03 28 43 92 20\tpl.vandecaveye@baudelet.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.72360,48.93216 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.93215569999999&lng=2.723604&fid=0x47e6195aa4ae567d:0x72438b340794bdf7&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Du lundi au vendredi : 7H30-16H30Dernier camion entrant          Terres inertes K3\tHans VANDENBERGHE \t06 20 71 14 11 /01 60 54 57 40\thvandenberghe@groupe-ect.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.58940,48.89249 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.8924903&lng=2.5894000000000004&fid=0x47e611dec6f372cd:0x5881a9e60a70680&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres inertes K3        \tResponsable du site : Yann Cisternino  06 03 34 00 94\tService réservation : 01 60 54 57 53 ou par mail :reservation@groupe-ect.com\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.62863,49.03109 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.031095500000006&lng=2.6286301&fid=0x47e63d4238f654a5:0x9275d4d237e8a491&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres Inertes (K3)- Gravats triés -Blocs \tISDI Classe 3\t\tTel : 01 60 03 13 55 / 06 10 47 48 55\"\tdverhille@groupe-ect.com  \"Fin d'exploitation 2027Nombre de camion maximum 800/jourCapacité réglementaire 3 800 000 tonnes/an\"\t\"Demandes centralisées- Blocs /- Terres mouillées pelletables- Gravats de démolition/ -Terres inertes\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.69634,48.68636 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.6863959&lng=2.6961626&fid=0x47e5fdce27d7a0f7:0xa723d85708270fbf&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres Inertes (K3)- Gravats triés -Blocs \tResponsable du site :  Yann Cisternino  06 03 34 00 94\tService réservation : 01 60 54 57 53 ou par mail : reservation@groupe-ect.comDu lundi au vendredi : 7H30-16H30Dernier camion entrant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.62701,48.78364 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.783635&lng=2.6270127&fid=0x47e60fc2025125a1:0xee1236ae549c49f7&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres inertes (K3) Gravats triés Classe 3  Responsable du site :  Yann Cisternino  \t06 03 34 00 94\tService réservation : 01 60 54 57 53 ou par mail : reservation@groupe-ect.comDu lundi au vendredi : 7H30-16H30*"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.08003,48.97332 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9733168&lng=2.0800319&fid=0x47e68bce31dbd7d3:0xacb20797282a509&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres inertes gravats de démolition blocs \tTel : 01 39 11 30 67 01 60 54 57 40 /06 10 47 48 55"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.01994,48.95450 ]
+    },
+    "properties": {
+    "Info":" Terres inertes gravats de démolition blocs \t\t\tdverhille@groupe-ect.com\"Nombre de camion maximum 200/jourCapacité réglemntaire 344 000 tonnes\"\tDemandes centralisées     Fin exploitation 2021\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.06778,48.60096 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.6009542&lng=2.0677799&fid=0x47e42cb7f83be94f:0xb0ba65ec7aebde9d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres inertes gravats de démolition\t\tTel : 01 60 81 29 86/06 10 47 48 55\tdverhille@groupe-ect.com \"Nombre de camion maximum 200/jourCapacité réglementaire 460 000 tonnes\tDate de fin exploitation 2018Demandes centralisées"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.60230,48.93356 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.933564&lng=2.6022986999999995&fid=0x47e6172afe2501db:0x296328e5c11a3c39&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres sulfatées\"Nombre de camions maximum 70 par jour Capacité réglementaire actuelle par an 192 000 tonnes\"\t\"Demandes centraliséesDate de fin de l'autorisation d'exploiter 2033INTERDICTION CAMION E1 ET E2\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.41086,48.93678 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.936778499999996&lng=2.4108568999999997&fid=0x47e66b2a5ca08a1d:0x1f14406a39426e02&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres impactées\tHoraires d’ouverture :Du lundi au vendredi : 7H30-12h00 et 12h30-16h00\"Terres polluées aux hydrocarbures       Responsable du site : Jérôme Malherbe /Service réservation : 01 60 54 48 97\"\t06 02 42 84 08pmasle@groupe-ect.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.21569,48.96510 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.970580149999996&lng=2.2137770499999996&fid=0x47e666c16c67799d:0x31d434f84361f574&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI  terres inertes gravats de démolitionCommercial : David VERHILLE\tTél: 06 10 48 48 55\"Nombre de camions maximum 300 par jour /Capacité réglementaire actuelle par an 600 000 tonnes\"\tDemandes centralisées /Date de fin de l'autorisation d'exploiter 2029\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.28874,49.05529 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.0552919&lng=2.2887436&fid=0x47e642d59e7a18fb:0x8ada23badf9448cf&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI  terres inertes gravats de démolitionINTERDICTION CAMION E1 ET E2Nombre de camions maximum 300 par jour/Capacité réglementaire actuelle par an 960 000 tonnes\"\tDate de fin de l'autorisation d'exploiter 2031Commercial : David VERHILLE\t01 34 73 93 32 /- 06 10 47 48 55\tdverhille@groupe-ect.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.47838,49.04270 ]
+    },
+    "properties": {
+    "Info":" ISDI\tCommercial : David VERHILLE\tTél: 06 10 48 48 55Site accessible aux camions de type 8x4 uniquement"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.36751,43.51385 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.5138487&lng=5.367507899999999&fid=0x12c9f29dd6bafdaf:0x902619347952bdc2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>K3+"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.00895,48.96100 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.960996&lng=2.0089513&fid=0x47e68957e9a87427:0xb898fe5be8f031bf&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI +   \tThierry VILLERIO -\tTel : 06 11 32 22 77Tél: 06 11 24 64 94\"\ttvillerio@sarpindustries.fr \"Nombre de camions maximum 200/ jour /Capacité réglementaire actuelle par an 700 000 tonnes Date de fin de l'autorisation d'exploiter 2017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.78699,49.00425 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.004268599999996&lng=1.7869569000000003&fid=0x47e69518e243bf5d:0x12f7198af04e1701&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD Fraisât amianté Déchets amiantés\tISDND - Terres polluées classes 1 - 2 et 3      \tISDIMuriel HOUAS\t\"Tél. : 01 30 93 50 50 - Fax : 01 30 93 52 16/(01) 34 97 25 65   (01) 34 97 25 65 \"\temtaguitrancourt@sarpindustries.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.31908,45.98190 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.9818992&lng=5.3190832&fid=0x478b53ab1f2a687f:0x997bc11d100d1b6c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets inertes\tDirecteur Régional des opérations Auvergne Rhone Alpes  Jean-Francois Guillemin\"\tT 04 74 46 35 85 M 07 85 46 85 84|\"\tJean-Francois.Guillemin@englobecorp.com\t355 En Belle Lièvre – Rue Charles de GaulleVoir document \t\tCapacité de stockage total : 381 355 m³(soit 686 439 t avec d=18)Capacité de stockage annuel : Durée sollicitée : 15 an\"\t\"25 500 m³/an en moyenne(soit 46 000 t/an avec d=18) et 40 000 m³ /an au maximum(72 000 t/an) \""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.56882,44.79934 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.7993017&lng=-0.5688205&fid=0xd55271b8f0871db:0x2254f6de32d0d44&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>DEEE 07 68 78 07 12benerroua@ervabek.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.32544,49.47027 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.473386999999995&lng=0.32424805000000007&fid=0x47e037141a00159b:0xdefa5987dfe9a55d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres gravats verre mélange bitumeux sans goudron béton propre amiante lié déchets inertes matériaux concassés remblai\t\t\tCéline Huet/Ory\t02 35 20 41 62\tpesage@etares-environnement.frVoir AP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.74136,44.47454 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.474536799999996&lng=2.7413624999999997&fid=0x12b28c48b2f2d777:0x8b32a079274c1f4a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Christian BRALEY\t 05 65 44 93 24\tPlateforme de regroupement déchets inertes Déchèterie professionnelle Autre type de centreantony.nakich@braley-france.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.18200,49.20963 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.2096258&lng=6.1819958999999995&fid=0x479527533e07aac3:0xb69ecd5cb8e8d02&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>03 87 51 48 60Déchets Dangereux\t\tDéchets Inertes Déchets Non-Dangereuxcontact@eurogranulats.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.13874,45.99949 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.999480399999996&lng=6.1386534&fid=0x478b8628d7740265:0x39d13534b0bfda9c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI04 50 08 30 20commercial@excoffierrecyclage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.83170,46.12007 ]
+    },
+    "properties": {
+    "Info":" Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\t\t04 50 56 69 00\tcontact@famy.fr\tAVENUE DU GÉNÉRAL LECLERC - 01200 CHATILLON-EN-MICHAILLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.45184,45.19284 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.192840499999996&lng=5.451839899999999&fid=0x478ac023817627f3:0x616bdf0614446129&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>04 76 64 74 25 direction@carriere-sacep.frISDND\tISDI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.02298,46.26284 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.262844&lng=6.0229902&fid=0x478c620b3b92c98d:0xa4fb29713a6b9a68&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre Végétale\tDéchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tAlexandra BROCA 06 25 01 57 59\talexandra.broca@carrieresdusaleve.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.43860,49.23163 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.923&lng=2.66456&fid=0x47e6490ed92867a1:0x4a42add01df9a3c2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI\tLANDRU Amélie\tTél : 06 15 94 23 33\tamelie.landru@eurovia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.48249,46.13430 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.13430019999999&lng=3.4824954999999997&fid=0x47f6cc9fc48f1387:0x11e42b46bbbb8868&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tPhilippe COMMERGNAT 06 89 72 87 85  philippe.commergnat@lafarge.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.35341,46.02473 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.0330546&lng=5.3753774&fid=0x478b56ebe44750cb:0x8545d2587cf264fe&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Béton / Terre non polluée\tFlorian DEREGNAUCOURT 04 74 36 98 53 florian.deregnaucourt@vicat.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.90578,45.76978 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.761186099999996&lng=4.892061099999999&fid=0x47f4c0500723e85b:0xe921e58754e1c041&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre Végétale\tDéchets Inertes mélangés / Béton / Terre non polluée\tThomas GRAPINET 06 22 64 55 19\tgrapinet.tp@wanadoo.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.87521,49.47238 ]
+    },
+    "properties": {
+    "Info":" GURDEBEKE SA Rue des Amours  THOUROTTE 60150plateforme de tri de déchets recyclables \t03 44 76 62 75 environnement@cc2v.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.39849,48.81434 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.81434410000001&lng=2.3984921&fid=0x47e673b34208d953:0x5a50277cfbfc5a43&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres inertes et terres polluées \tCommercial : Damien François \t01 79 84 17 80/  06 45 46 67 92\td.francois@hesus.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.47411,46.71725 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.717254000000004&lng=5.474114000000001&fid=0x478d2a17d922aff5:0xa01f2b7723bf20e6&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux\t\tMme COBOS\t03 80 26 59 40\tassistante-co@bourgognerecyclage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.08817,48.74664 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.746645400000006&lng=7.088169199999999&fid=0x479416ca28f66a39:0xc59e085d3a5f4aa1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux\t\t\tGOBLED Marc\t03 87 03 32 32\tsecretariat@kugler.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.72151,44.85597 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.855972699999995&lng=-0.721505&fid=0xd54d07b145a6565:0xc1a9c6ba124fd6f4&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets verts05 56 70 17 00contact@touban.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.68913,48.27743 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.276925500000004&lng=2.68952375&fid=0x47e589455129df7d:0xc1dc363f216ca29f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Tél: 01 64 78 75 50DIB\tDéchets recyclé gravier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.85928,48.97200 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9720015&lng=1.8592741000000004&fid=0x47e69400cae29981:0x299f8fca676f7c21&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes K3 - Plateforme de recyclage  \t\t  Tél : 01 30 95 75 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.64490,49.03013 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.92158104999999&lng=1.68725845&fid=0x47e6b9e1cfcbf98d:0xcec10911c8a5a226&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> Tél : 01 34 97 02 70Stock pas sur site pour le moment"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.38633,48.67835 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.605357549999994&lng=2.7269447499999995&fid=0x47e5df6e1bd86a7b:0xcc18c23f7ba075b8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>01 69 12 19 30stock plus dechets"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.26790,48.83736 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.73614195&lng=2.4504457000000004&fid=0x47e67a9892be0601:0x2701c9dc9970591&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes \t\t01 45 54 82 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.29489,48.86100 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.8374&lng=2.26825&fid=0x47e66fe1678a7e29:0x7541658c8e816189&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes \t\t01 47 05 93 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.72912,48.19523 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.1879128&lng=2.7583302999999995&fid=0x47e587ec86aaac69:0x4d68da571771ef26&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes K3 et K3+     \t\tTél : 01 64 29 70 07scsl.bascule@lafarge.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.28860,48.94755 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9475534&lng=2.2885961&fid=0x47e668a8df5ddf05:0x7a553878e4f86fa1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de négoce    Déblais inertesLAFARGE ( Plateforme de recyclage )Tél : 01 47 98 83 18phillipe.famibelle@lafarge.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.75703,48.96439 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.0481548&lng=1.7882488&fid=0x47e6bde32149f5c1:0x82505e26af32be44&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes K3 et K3+ - Plateforme de recyclage - Platefeforme de traitement des terres polluées01 34 77 08 31 ‎/ 06 17 20 22 08\talexandre.cocq@lafarge.comAlexandre COCQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.45213,49.01751 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.0175072&lng=2.4521238&fid=0x47e6401e926b161f:0xa03532fe2b39a7f5&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes\t\t   Tél : 01 39 88 55 89 /06 58 57 77 17\t phillipe.famibelle@lafarge.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.97192,48.39178 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.415635650000006&lng=2.8915512000000003&fid=0x47ef43e7be3e08e7:0x9ffacb79235c8c0a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI - Déblais inertes   classe 3                                    \t\tTel : 06 75 60 00 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.98890,43.18600 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.1877892&lng=0.9895410000000001&fid=0x12a92710d202537f:0x418379b73b182195&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Huiles usagées  Déchets solides combustiblesCRETIN Axel\t05 61 97 70 10/ 06 59 12 70 10\taxel.cretin@lafarge.com\tingénieur environnement envoyer mail"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.02775,45.67574 ]
+    },
+    "properties": {
+    "Info":" Terre Végétale\tDéchets Inertes mélangés / Béton / Terre non polluée\tBrice THIOLLIERE\t06 84 51 72 13\tbrice.thiolliere@lafarge.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.84302,45.70917 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.709165500000005&lng=4.843021699999999&fid=0x47f4e9ea99d3c1bb:0xcf414614bd9f9ed2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre Végétale\tDéchets Inertes mélangés / Béton / Terre non polluée\tThomas GRAPINET 06 22 64 55 19\tgrapinet.tp@wanadoo.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.71543,50.27091 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.2709095&lng=2.7154342999999996&fid=0x47dd46e4a49b31f7:0xa990b5347c78cd9d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\tMartine MILLON - Vincent GALAND\t03 21 71 77 91\tvgaland@laflutte.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.53069,45.01284 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.0128249&lng=-0.5307548&fid=0x48002beb0235f051:0x2bbfe586b569a2c8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Gravats valorisables"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.15423,44.78931 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.7893092&lng=-0.1542441&fid=0xd5545dae8fb4741:0x67c150d8242e5dae&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>gravat et terre non poluées05 57 55 58 32jes-jug@outlook.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.20266,48.95744 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.78254475&lng=7.01437335&fid=0x4794c153b15ab00f:0xe1ac621327975cf4&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-DangereuxHAP HCTDéchets Inertes03 87 57 83 00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.38921,50.44106 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.441056800000005&lng=3.3892121&fid=0x47c2e83fa9d43481:0x32132e95a74f1309&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>741 rue du champ des oiseaux\t SAINT-AMAND-LES-EAUX  59230Déchets Dangereux hydrocarburesMickaël DELANNOY  03 27 21 65 65stephane.canaple@veolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.58090,48.61369 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.6136917&lng=2.5809017&fid=0x47e5e37cb36c847d:0x7feb043ae82e4bcb&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes classe 3\tAlexis LABREURE \t06 15 02 83 36dimitri.belladel@eurovia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.39235,48.59119 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.5911921&lng=2.3923514999999997&fid=0x47e5dc466f59092d:0x6d1888f01574020c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes classe 3\tAlexis LABREURE\t\"01 64 56 91 01/06 15 02 83 36 \"dimitri.belladel@eurovia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.46841,48.55764 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.5730948&lng=2.43748575&fid=0x47e5e79fa977c497:0xad9a5b5203e54e8e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes classe 3\tAlexis LABREURE \t\"01 64 56 91 01/06 15 02 83 36 \"dimitri.belladel@eurovia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.27593,48.71778 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.717780999999995&lng=2.2759332&fid=0x47e677925a18c797:0x805ed854f8e1afb9&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes classe 3\tChristophe FOIRY\t01 69 53 01 23 /06 43 38 15 77christophe.foiry@eurovia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.40504,48.66377 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.656242799999994&lng=2.3899761500000003&fid=0x47e5dfaf896871d7:0x76a2cec4446348bd&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déblais inertes classe 3\t\t01 69 53 01 23 /06 43 38 15 77christophe.foiry@eurovia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.48786,48.77989 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.77988800000001&lng=2.4878610000000005&fid=0x47e60c843a802a53:0x7ffc55fe1f411c22&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI - Béton à préparer - Démolition chaussée - Terre inerte \t\tTél : 01 57 02 11 90naidji-o@mrb94.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.04097,45.48946 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.4894647&lng=6.040971199999999&fid=0x478bb270431b8323:0x5824ce31d4e3df6d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD  ISDND  ISDI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.76402,48.10643 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.041906700000006&lng=0.46710104999999996&fid=0x47e3a9855bad2e25:0xa78dc88c11c2673e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Plateforme de recyclage du bois Recyclage des terres et matériaux de chantiers DIB bois a bois b dechets verts amianteGeraldine Deveriendt\t02 43 71 99 11 /02 43 50 18 22\tgeraldine.deveriendt@paprec.comcapacité réglementaire 82000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.09699,45.04699 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.01385415&lng=4.978993299999999&fid=0x478ab2b1e1dc9f2f:0x8f7bdc1cdc4708ff&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND   ISDI04 75 70 06 96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.81517,50.40257 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.40256559999999&lng=2.8151679&fid=0x47dd30c90e5dc591:0xe29c514b3d094cca&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets / Déchets Non-Dangereux Déchets Inertes\tSébastien CATELAIN 03 21 13 02 52  s.catelain@groupenicollin.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.00168,50.60441 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.558560699999994&lng=2.8536892999999997&fid=0x47c2d52b35c47299:0xb94586fec5ad7db0&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\tRobert GAMAIN\t06 08 56 22 70 robert.gamain@normat.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.04975,43.77797 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.7779405&lng=2.0497313&fid=0x12add9c85b0603a5:0xc6eb0b3ed6cc32fc&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées \t FERANDO Charlotte 06 11 30 49 15  cferando@sarpindustries.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.14212,49.06490 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.0648925&lng=2.1421187&fid=0x47e65f090ae41f21:0x75597d09c229d899&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Ballasts de voie Mélanges bitumineux Boues de dragageDéchets provenant du nettoyage des égouts (réseaux et ouvrages de gestion des eaux pluviales)Déchets solides et boues issus de la décontamination des sols et des eaux souterraines Plateformes terres polluées - FLUVIALE Terres pierres et graviers (dont déblais provenant de sites contaminés)Yann OLANIER\t06 27 16 49 32\tyann.olanier@ortec.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.04117,47.28111 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.2811004&lng=5.0411866&fid=0x47f29c225d82ae43:0x61b14ee566ea188e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes / Déchets Non-Dangereux\t\t03 87 51 48 60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.28181,49.90556 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.9055557&lng=2.2818088&fid=0x47e7840510c53b73:0x36b98415e74015bb&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Déchets DangereuxGuillaume HAUDRECHY\t06 80 64 21 97\tguillaume.haudrechy@ortec.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.15891,49.23605 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.2360111&lng=6.158919849999999&fid=0x479527065ccd0bcb:0xf44471abbf3ad769&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux  Déchets Non-Dangereux Biocentre  03 20 85 31 80Marina CONCAS <marina.concas@ortec.fr>Thibault BLONDE <Thibault.BLONDE@ortec.fr>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.26273,49.85078 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.136740599999996&lng=3.79632995&fid=0x47e818f9b8551115:0xe7588f1a52e2daeb&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux / Déchets Non-Dangereux BiocentreMme Pascale PATE\t03 23 06 29 33\tpascale.pate@ortec.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.21467,49.50899 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.173553150000004&lng=2.25069935&fid=0x47e03acb58145d1f:0xb5f0e6e3e6355a23&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Yvon LE RHUNTerres polluées"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.34120,43.52239 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.5801109&lng=1.3808800500000002&fid=0x12aeb70e692c5715:0x4194f4c2719a16be&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Installation de stockage de déchets non dangereux\tCentre de recyclage inertes/ Installation de stockage de déchets inertes/Plateforme de regroupement bois/Plateforme de regroupement déchets inertes /Plateforme de regroupement papier-carton /Plateforme de regroupement plastique /Plateforme de regroupement métauxDéchèterie professionnelle / Déchèterie publique ouverte au BTP Hermine TROUSSILLE\t05 61 76 69 00\t hermine.troussille@veolia-proprete.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.43106,49.86469 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.8646926&lng=1.4310561&fid=0x47e0ad3bb91884ad:0x1353a83065b7a899&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>DIBbois gravats ferraille"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.76754,44.76916 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.790456&lng=-0.7573094499999999&fid=0xd54c35ea97df143:0x9021bce2992cbfe3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\tBois non traité (Cat A)Bois traité (Cat. B) DEEE Férailles & Métaux Papiers Cartons Plastiques05 57 97 37 77"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.15639,49.01533 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.015333999999996&lng=2.1563915&fid=0x47e66086e29c3061:0xabc05330ff93b01f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres inertes classe 3+ matériaux inertes\tJean-Luc QUERUEL - directeur commercial \t06 14 30 75 73\tjean-luc@petitdidier.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.75797,49.03904 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.04115375000001&lng=2.7591606000000004&fid=0x47e621425c124d6d:0x8e2dfe0afd2a3e47&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Nombre de camions maximum 40/jourCapacité réglementaire par 250 000 tonnes\"\tFin d'exploitation 2018ISDI - Classe 3Stéphanie VENDE - 06 99 32 94 45\t\"01 34 30 73 09\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.08000,48.98148 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.981477999999996&lng=2.080002&fid=0x47e68a5f79b5615f:0x6b7a0b12074ea361&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\t\tISDI Stéphanie VENDE  \t06 99 08 48 04/Tel 01 39 72 22 84"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.01105,48.95163 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9516281&lng=2.0110502&fid=0x47e68d290ce8f2a1:0x48e28095466ce157&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI Tel : 01 39 74 60 44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.75319,48.99149 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.00353405&lng=1.9457097500000002&fid=0x47e6957930dfabd1:0x40da371b16539fdb&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Stéphanie Vendé\t06 99 08 48 04 /Tél: 01 30 92 12 74ISDD\tISDND\tISDI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.28754,48.57931 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.57931299999999&lng=2.287535&fid=0x47e5dbf45385ea4f:0x8c3b6affbeae4405&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI \t\tTél: 01 60 84 25 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.22020,48.90109 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.901091799999996&lng=2.2201999&fid=0x47e66458dd953ad7:0x900c5469b23e228f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI \t\t01 47 82 33 07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.13823,49.01558 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.015579100000004&lng=2.1382335&fid=0x47e65fd8100ee395:0xd540540ac287d40d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI \t\tTel : 01 39 74 60 44\"Nombre de camion maximum 35/jourCapacité réglementaire par an 225 000 tonnes\"\tFin d'exploitation 2020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.33758,49.08226 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.04926689999999&lng=2.23790625&fid=0x47e643a00e716683:0x8655379012b53a2d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI                 Stéphanie VENDE\tTel : 01 30 35 64 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.88244,49.19019 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.1968&lng=1.92772&fid=0x47e6e551570e16a3:0x26abf7845d8872cc&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Tél : 01 34 30 49 87ISDI  \"Nombre de camions maximum 35/jourCapacité réglementaire par an : 160 000 tonnes\"\tFin d'exploitation 2017Réaménagement de carrière"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.74498,50.49770 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.4976997&lng=2.7449771999999992&fid=0x47dd2520635c65d5:0x72e9372e43f9c86b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non Dangereux Inertes\tDidier PAGGIN\t06 61 56 33 78\tdidier.paggin@colas-ne.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.37833,43.09964 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.1218166&lng=0.38287305000000005&fid=0x12a84c00f5617563:0xe5fb80a58b071575&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>MAILHES Didier\t06 86 58 80 02 \tdidier.mailhes@psi-environnement.frEaux souillées aux hydrocarbures"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.38741,43.14399 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.1218166&lng=0.38287305000000005&fid=0x12a84d3c66e390d1:0xc5640677290ae85e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées MAILHES Didier\t06 86 58 80 02 \tdidier.mailhes@psi-environnement.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.93351,50.46456 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.4645732&lng=2.9335217999999994&fid=0x47dd32636d7e6317:0x44d9bfd3c98304c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux /  Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux InertesSaid BADRI\t06 37 65 47 33\t sbadri@ramery.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.59126,48.70651 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.709849350000006&lng=2.5865910999999997&fid=0x47e60839b935f7d5:0x765caafb273bf469&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Revalorisation Bois Matière\t\"RESPONSABLE DES EXPLOITATIONS : Karl GREGOIRE\"\t\"(01) 60 29 25 62/(06) 31 15 51 22\"\tkarl.gregoire@sita.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.27013,45.55599 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.55599189999999&lng=3.2701319999999994&fid=0x47f6f89ef9e80c47:0xf971f25210fc854f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tEric SAUGET\t06 08 70 45 25\teric@roux-btp.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.89918,50.65496 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.655062&lng=2.8990510999999994&fid=0x47dcd60f6cc9b351:0xaaf764a8c1fcb066&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux  Déchets Non-Dangereux Non Inertes Déchets Non Dangereux Inertes\tWDOWIAK olivier\t 03 20 10 03 33\teception@covanord.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.36754,50.30918 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.3091737&lng=3.3675349999999997&fid=0x47c2eaa74ead1403:0xb12f6a15a0bef2d2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux / Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\tCAREMIAUX Sylvie 06 84 74 23 87\tscaremiaux@recydem.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.97379,50.59342 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.5934153&lng=2.9737924000000002&fid=0x47dd2b2276544bc1:0x9b35c4617c6c080f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux / Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\tPierre-Laurent Vandecaveye 03 20 44 03 33 contact@recynov.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.99284,50.60677 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.6061709&lng=2.9933918000000004&fid=0x47dd2ad3dfaaaaab:0xc232a02d54a54854&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI\tJérôme DEBRUYNE \t07 86 33 00 75 / 03 20 44 03 33\tj.debruyne@recynov.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.77103,48.66392 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.6639175&lng=7.7710289&fid=0x4796c7674bbb6341:0xcd0868f4136fc05e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI\t\tBiocentre03 67  34 34 21elodie.lopes@ecoterem.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.75636,48.57152 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.68076995&lng=2.50266355&fid=0x47e5f954ccbf680b:0xf582bbe61f89b367&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>01 39 33 15 10 ISDND Classe 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.72035,48.94822 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9338626&lng=2.6800903499999995&fid=0x47e619973d400ac7:0x8da8e253a1baa81b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDND   Classe 2          Nombre de camions maximum 700 par jour/ Capacité réglementaire actuelle par an 1 100 000 tonnes\"\tDate de fin de l'autorisation d'exploiter 2026ANTOINE Brigitte    +33 1 60 27 08 28  brigitte.antoine@veolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.30210,48.94881 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.94880909999999&lng=2.3021021&fid=0x47e668b8137bd08d:0x35a70af34e9ae10b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Olivier BERAUD \t01 39 33 15 10 /02 32 83 27 55 ISDI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.41259,49.02700 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.05490000000001&lng=2.48445&fid=0x47e641d2ebedf5d7:0x6f5c077e0403b755&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDND \t\t\t01 39 33 15 10\t\"Nombre de camions maximum 700 par jourCapacité réglementaire actuelle par an 1 100 000 tonnes\"\tDate de fin de l'autorisation d'exploiter 2027brigitte.antoine@veolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.80218,45.62325 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.623246699999996&lng=4.8021826999999995&fid=0x47f4e7ecaad484ed:0x2cb0f41526d95e65&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Amiante Cimant / Amiante libre / Vinyl Amiante / Terre Polluée\tTerre Végétale\tDéchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluéePierre Alban MAISTRE\t06 16 53 31 66\tpamaistre@revaga.comISDI+ BIOCENTRE !Emilien BERNARDEAU <ebernardeau@groupe-pmp.com>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.14361,50.56343 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.563390649999995&lng=3.14313655&fid=0x47c2d6b43494dff1:0xdf10c4ad420c6f5&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Non Inertes// Déchets Non Dangereux Inertes / BAUMANN Georges 03 20 41 57 00 georges.baumann@eiffage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.26426,45.81675 ]
+    },
+    "properties": {
+    "Info":" 44 ROUTE DE VICHY - 63430 PONT-DU-CHATEAU\tPONT-DU-CHÂTEAUTerre Végétale\tDéchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluéeNicolas FOUNIER\t06 43 50 53 21\tnicolas.fournier@vicat.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.09204,43.02235 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.0223267&lng=1.09198&fid=0x12a8d039d0af84fd:0xd12a1c9af0c1f66a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de regroupement déchets dangereux\t\tPlateforme de regroupement déchets inertes\tCyril ROUX\t05 61 04 44 44 \tsaicanatursud@saica.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.98220,50.58136 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.5813591&lng=2.9821972999999997&fid=0x47dd2b38521ad6cd:0xacae6ae25de16aeb&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes DELISSE Pierre Damien 06 74 44 18 83 pierredamien.delisse@devarem-environnement.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.28157,49.64238 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.6424217&lng=3.2815171999999997&fid=0x47e84007ba514e51:0xade30c679bdac1b9&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>plateforme de tri de déchets recyclables GLUSZEK Béatrice 03 23 39 75 75 contact@valorbat.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.25302,48.84143 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.219264949999996&lng=2.0516999500000006&fid=0x479494fcdb71c179:0x1d95288210979ade&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD03 83 22 24 70vianney.allard@suez.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.03148,48.84334 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.8433456&lng=5.031479799999999&fid=0x47eb9df5d8c758b5:0x9c2221675f651d76&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD03 29 78 73 50 /06 30 52 11 20\trachel.mortier@suez.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.38501,47.32626 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.326262899999996&lng=5.3850134999999995&fid=0x47ed5628e953798d:0xd2d4d1fc039b9e4f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.20166,51.52351 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=51.52353489999999&lng=7.2016406&fid=0x47b8e1a059f16c41:0x452d7114c52df991&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.41438,50.93812 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.9398968&lng=4.4133387&fid=0x47c3e804817dea15:0x85173214ab9d2a6f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.02502,50.69559 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.941223&lng=2.2857631499999997&fid=0x47c32b3bb2031125:0x81bc3e75e0ed764a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\t\tCédric COINCE\tTel. +33 (0)3 74 46 86 35| Mob. +33 (0)6 09 38 61 67\"cedric.coince@suez.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.79631,45.57702 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.5770162&lng=4.7963109&fid=0x47f4e6d514481553:0x4fbf0df5731764a1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI\tEric van de wynckele\t06 12 52 25 02\tevandewynckele@sarpindustries.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.01482,49.31159 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.311610900000005&lng=1.0147929&fid=0x47e11f04bc6044dd:0x1f37540a12751e07&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets dangereux amiantés\t\t\tFanny ROUSSELIN MOREL fanny.morel@veolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.87396,50.28376 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.28376069999999&lng=3.873964999999999&fid=0x47c25d874fc56ba5:0xf714ff228538b35a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereu / Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\tTUYPENS Laurent 06 23 96 11 17 Laurent.tuypens@lorban.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.33662,43.49218 ]
+    },
+    "properties": {
+    "Info":" Déchets des Activités Economiques (DIB) Terres polluées valorisablesNicolas NOUVIALE 02 43 67 93 70\tn.nouviale@groupe-seche.combld du grand du grand castaing\t PORTET SUR GARONNE\t31120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.85487,48.11971 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.1197052&lng=-0.8548652999999999&fid=0x48091cd04c337beb:0x403c7b0ccf0b7a96&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Julien DEHEDIN\t06 25 45 60 82Terre polluéesBiocentreVoir document"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -1.61990,47.18620 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.1861928&lng=-1.6198961999999997&fid=0x4805eb7e934a080f:0x2a8b42dbc4930565&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de terresTerres polluées – Valeurs limites d’Acceptation identiques à BIOCENTRE\tJulien DEHEDIN\t06 25 45 60 82Voir dicumentJULIEN DEHEDIN <j.dehedin@groupe-seche.com>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.84531,48.11440 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.114401799999996&lng=-0.8453090999999999&fid=0x48091cd48e3648f9:0xa410127a2a130ec7&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Président : M. Maxime Sechetous types de déchets dangereux et non-dangereux.Capacité réglementaire 70000002 43 59 60 00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.38152,48.59449 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.594543200000004&lng=2.3816497000000005&fid=0x47e5dc58c7d358f9:0x70072c93168fd5e7&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDND\t\t\tTél : 01 64 56 75 00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.38694,48.59040 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.5944&lng=2.38146&fid=0x47e5dc45f16be9cd:0xac2b36e6e2283e29&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDND\t\t\ttél. 01 64 56 75 90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.97306,43.45535 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.455287899999995&lng=1.9731199000000004&fid=0x12ae5d437bf6c637:0x44db7a07646f422c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées \t\t\tMadame MOREAU mmoreau@seps-france.fr Monsieur Cazeres scazeres@seps-france.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.09748,47.33632 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.336318899999995&lng=5.0974793&fid=0x47f29e19051ae00d:0xa28d4e9885673c6c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux Déchets Inertes Déchets Non-Dangereux\tBastien GOUVERNEUR 03 80 60 04 04 b.gouverneur@seteo-reval.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.39861,49.09261 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.092614000000005&lng=1.3986110000000003&fid=0x47e134caba757a51:0x553d1dba8f791ecf&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>OM amiantée liée  DIB\tcarton recyclable plâtre\tdéchets verts gravats verre ferraille terres bois B\t\t\tNicolas POULAIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.40132,47.26529 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.26530739999999&lng=2.4013256&fid=0x47fab9fdafcc9bf5:0x662281acd6a303d9&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Centre de recyclage inertes/ Déchèterie professionnelle  /Installation de stockage de déchets inertes/Installation de stockage de déchets non dangereux / Plateforme de regroupement boisPlateforme de regroupement déchets inertes /Plateforme de regroupement papier-cartonPlateforme de regroupement plastique /Plateforme de regroupement verre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.73097,47.92661 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.87674575&lng=1.7858610500000005&fid=0x47e4f23f5ebee3fb:0x780b5f987e05288e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.92692,50.46414 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.464139499999995&lng=2.9269996999999996&fid=0x47dd332dab43e77d:0x3b22b7bbd5104ec3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux Déchets Non-Dangereux Non Inertes\t\tLEBRUN Frédéric\t06 03 84 78 11\tsevia.lens@veolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.84926,45.71089 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.71088699999999&lng=4.849263899999999&fid=0x47f4e9e92df11ae9:0xbabc4885db0eff17&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets dangereux mélangés/ Terre polluéeRomain COLLOMB\t04 78 70 93 02\tromain.collomb@veolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.53429,44.90353 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.90352779999999&lng=-0.5342926&fid=0xd552937999aee09:0xbb3c1b08db4e928f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Huile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.58562,47.81095 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.8109817&lng=3.5858011&fid=0x47ee4f694e3efef7:0x75e17b318d97bf2f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Déchets Inertes\tChristophe THIERY 06 33 32 28 87"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.52948,44.90563 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.905630099999996&lng=-0.5294907999999999&fid=0xd55294ece216b13:0xec52da2a79d3cae0&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Aérosols / Déchets souillés CESARACCIO Florence 05 57 77 65 64 fcesaraccio@sarpindustries.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.69222,48.91452 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9145164&lng=2.6922156&fid=0x47e61b06dfaf29a9:0x71e40ea67209ebac&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres et déblais inertes classe 3 gravats de voirie crôutes d'enrobés blocs béton gravats de démolition\tCommercial : Cédric LELOUP \t06 07 43 15 90/ 01 64 40 09 06\tc.leloup@sifral.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.61644,48.77533 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.775332000000006&lng=2.6164405&fid=0x47e60f4ca76cfa59:0x16d43330ad0d16c8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres et déblais inertes classe 3 gravats de voirie crôutes d'enrobés blocs béton gravats de démolition\tCommercial : Cédric LELOUP \t 06 07 43 15 90\tc.leloup@sifral.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.77313,45.17893 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.178883299999995&lng=0.7731936999999999&fid=0x47ff6fca057b5b75:0x98aa0a658d9a883c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Férailles & Métaux       Câble cuivre et aluminium  Bois non traité (Cat A) Bois traité (Cat. B)\tDIBPOUJADE Romain\t05 53 05 16 29\tpoujade.romain@sirmet.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.11346,48.72769 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.72769160000001&lng=1.1134597000000002&fid=0x47e15f494e9d2e31:0x2d6f7853e1ed4c81&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Capacité 60000Déchets des ménages (collecte tri traitement)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.95426,48.00973 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.97744245&lng=1.89874245&fid=0x47e4fecc0f86360f:0xa75b0600f40d9bac&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> Capacité 90000Collecte de Déchets non dangereux02 38 91 56 27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.47981,47.49744 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.733666250000006&lng=1.0610696499999999&fid=0x47e2cd90697dda9d:0x9619818bcd39d31e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Capacité 150000+33 2 47 24 58 96stockage de déchets non dangereux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.60342,48.92929 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.929197300000006&lng=2.6034151999999997&fid=0x47e61736abe72807:0x3b85a26ba564c84d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD Classe 1                        \"Nombre de camions maximum 45 par jour /Capacité réglementaire actuelle par an 250 000 tonnes\"01 64 27 93 04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.89344,47.68550 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.685501699999996&lng=-0.89344&fid=0x480893e124b9d4a9:0xea6c1c210b41b736&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Capacité réglementaire 100000Récupération traitement de déchets divers02 41 92 28 50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.52807,47.49409 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.494093&lng=-0.5280672999999999&fid=0x4808794d18472741:0x6b4afc75766ecbf8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Récupération traitement de déchets divers\"02 41 60 51 51 / 09 64 40 16 11\"Capacité réglementaire 100000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.81724,48.09714 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.097139&lng=-2.8172434999999996&fid=0x4811d37f1e5ae539:0xd70552c0f3959ecf&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>OM résiduelles \t 02 97 51 51 64168000 t/an"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.55881,48.33187 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.3318692&lng=-0.5588119&fid=0x4809a39a0856ae07:0x4cffef51d628d76&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Capacité réglementaire 12000006 70 03 13 48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.29662,43.59637 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.71340875&lng=1.4634389499999998&fid=0x12aeb183835b4571:0x9d0ef93695452df2&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de regroupement papier-cartonDéchèterie professionnellePlateforme de regroupement papier-carton Plateforme de regroupement plastique Plateforme de regroupement déchets inerte Plateforme de regroupement plastique  Plateforme de regroupement bois Déchèterie professionnelle\tPlateforme de regroupement métauxPatricia PARIS\t05 62 89 26 00\tpatricia.paris@sita.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.74058,46.60706 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.6070594&lng=1.7405799000000002&fid=0x47fbba2b25acb6b1:0xc205dba43af39ff3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> 02 54 06 15 00Capacité 85000stocker de l’amiante"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.96373,48.38373 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.383729699999996&lng=2.9638413&fid=0x47ef42c791f623cd:0x314fc24f5c901993&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD Classe 1    Tél. : 01 64 32 41 55/Fax : 01 64 32 50 04\"\tsmab@sarpindustries.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -1.62499,47.56584 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.5658417&lng=-1.6249707999999996&fid=0x480f5d1cd01409ff:0xc73450c5f0258fa1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> déchets ménagers résiduels et triés\t\tTél. : 02.40.79.51.48 /Fax : 02.40.79.51.50\taccueil@smcna.frCapacité réglementaire 42000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.63797,48.92510 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9250974&lng=1.6379702999999999&fid=0x47e6bbbfa2a1247d:0xce7065d9aea52a47&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI           (01) 30 14 18 18Réception gratuite de structure de chaussée et démolition propre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.19386,48.18491 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.184912&lng=-2.1938549999999997&fid=0x480e504ef535979d:0x149de80f8f361260&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>DIB\t\t02 99 09 57 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.92079,48.59195 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.5919464&lng=-2.9207945999999994&fid=0x4811fe5bb7583bd7:0x4d4d42198635b9f3&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>sédiments marins02 96 74 14 64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.43867,48.72233 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.722333000000006&lng=2.4386699999999997&fid=0x47e6753211ccd95b:0xebc2a3b6d3a70bc4&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI \tResponsable exploitation : Gaëtan FAIDERBE\t\"Tél: 01 69 03 98 81 /Tél : 06 62 90 02 59\"\tgaetan.faiderbe@colas-idfn.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.18244,48.64316 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.643156999999995&lng=2.1824455&fid=0x47e5d65ac3d093fd:0x53230d34d01c1b97&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI                                    \tPhilippe GARNIER\t\"Tel : 01 69 01 49 45/Tél : 06 60 38 62 49\"\t- philippe.garnier@colas-idfn.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.20507,48.66662 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.64862994999999&lng=2.2143333000000003&fid=0x47e5d748a8a9af61:0x13005cb3b3d8856e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI  \t\tTel : 01 69 01 49 45Tél : 06 60 38 62 49\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.34299,48.78771 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.787713&lng=2.3429869999999995&fid=0x47e6711fce9a4cf5:0x963741a444117242&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> ISDD\t\tISDI \t\tTél : 01 69 80 10 80/Fax : 01 64 49 80 39   \""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.56254,47.42402 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.4240235&lng=1.5625456&fid=0x47fb4cba952b2c19:0x71f222f042a9b8d&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Capacité 50000Collecte des déchets non dangereux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.70578,50.51289 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.512892400000005&lng=2.7057785&fid=0x47dd249c961a9a89:0x2436522ba667faac&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\tYves BLANQUART 06 09 49 08 86\tm.masuko@vermeulen.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.98517,47.21293 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.21292869999999&lng=1.9851762&fid=0x47fb276eac504aeb:0x4f8f5f628abc28be&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>02 48 51 40 16Capacité 40000Huiles usées  Piles électriques usagées\tDéchets métalliques Déchets verts Déchets en mélange\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.17990,48.74055 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.740549099999996&lng=2.1798968&fid=0x47e5d61162f2b24d:0xba99b141d9dd426c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>01 69 41 27 63\"ISDD déchets (classe II) issus du bâtiment espaces verts encombrants DIB à l’exclusion des produits domestiques chimiques ou toxiques de classe I.ISDND\t\"ISDI matériaux inertes (classe III) issus de terrassements démolitions de voirie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.11324,46.07342 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.60264829999999&lng=4.24486075&fid=0x47f40eea90850845:0xe17bb7b8b1eb38d1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tAlexandre BENETIERE 04 77 68 65 33  alexandre.benetiere@eiffage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.11291,49.41288 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.41161124999999&lng=1.0944492&fid=0x47e0de8c89132b07:0x323da274ee7cb62&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>02 32 83 27 55"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.81795,45.63152 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.6315192&lng=4.8179460999999995&fid=0x47f4e7d4e3c7b633:0x5e0867389c81b002&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre polluée04 42 52 30 94\tcontact@solvalor.frRomain MARIETTE <romain.mariette@solvalor.fr>Florian GIRERD <florian.girerd@solvalor.fr>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -1.00331,44.56807 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=44.5680694&lng=-1.0033081999999998&fid=0xd5491e3a1e7f819:0x61935b2279f6aed0&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées joffrey.caron@solvalor.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.28591,48.94887 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.9488637&lng=2.2859165&fid=0x47e668a7e2272b4b:0x4c2632440d60141f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI terrres inertes gravats de démolition\t\tTel : 01 60 21 07 44/06 10 47 48 55\tdverhille@groupe-ect.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.07372,43.23651 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.236473200000006&lng=-0.0736949&fid=0xd562bf5935efae5:0xe0e426f7012483cc&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de regroupement déchets inertes\tJacqueline LOPEZ\t05 62 31 59 50\tjacqueline.lopez@guichot.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.76753,48.66305 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.6630535&lng=7.767531699999999&fid=0x4796c7eb7017348f:0xf7fba8a18edc19c0&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI\tEdouard MOREAU\t06 08 31 60 53\tedouard.moreau@sorheval.eu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.28687,45.12590 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.125900099999996&lng=-0.2868701999999999&fid=0x480018ba3aaad669:0x8f72100db6e615ce&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>DIB ultimes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.65887,45.24593 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.245932499999995&lng=5.658867499999999&fid=0x478af192ec9cc249:0x313366254638a126&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\tISDND\tISDI04 76 75 61 63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.01434,50.62732 ]
+    },
+    "properties": {
+    "Info":" Pierrick LEFEBVRE 06 12 64 04 30\tplefebvre@stbmateriaux.frDéchets Dangereux / Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\true Victor Hugo\tLOMME  59160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.53561,49.51009 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.510086799999996&lng=0.5356116&fid=0x47e05017439e1a4d:0xbc41a3b60ceb5ce1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.73423,48.63488 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.82174245&lng=2.5222889999999993&fid=0x47e5feedc454b26b:0x346850fdf8532c37&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDND Classe 2Capacité réglementaire actuelle par an 90 000 tonnes\tDate de fin de l'autorisation d'exploiter 2022"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.90708,49.21595 ]
+    },
+    "properties": {
+    "Info":" ISDND\t\tLaurent STEINER \t\"03 44 49 16 56 /06 73 18 42 75 laurent.steiner@suez.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.81272,45.62113 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.6801&lng=4.84646&fid=0x47f4e7b2b59b6243:0x65afa426380bf427&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Amiante ciment / Amiante libre / Vinyl amiante / Terre polluée / Terre VégétaleJonathan MARTINEZ\t06 85 97 39 23\tjonathan.martinez@suez.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.10965,49.36963 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.3696276&lng=1.1096519&fid=0x47e0df7ada2135d9:0x3b0e873a0c4d5e72&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>DIB\tmarie-christine.blassiaux@suez.com Marie-Christine BLASSIAUX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.13682,47.28456 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.23590645&lng=5.1583839&fid=0x47f29f62d7b3cc17:0x1dee80cafa862012&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux\t\tChristelle THIVANT 03 80 72 91 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.90566,47.21264 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.2126368&lng=5.9056608&fid=0x478d60ce73599a61:0xf4c0fb4a5198560b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux\t\tSéverine BAILLY\t03 81 47 69 63\tseverine.bailly@sita.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.78770,47.32295 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.4152&lng=1.02059&fid=0x47fb310ebdc55dbf:0xf4d4683a6794418a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Capacité 50000traitement et élimination des déchets non dangereux02 54 76 73 94"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.78577,48.51103 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.3557958&lng=7.513253199999999&fid=0x4796cb86343130bf:0x73977a00332eea70&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux  / Déchets Inertes\tCyrille Van Oost\t 06 78 00 40 04\tcyrille.vanoost@sita.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.34706,47.84291 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.842905699999996&lng=2.3470548&fid=0x47e51315d0296721:0xc2a49acfe370c33e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>02 38 58 25 70déchets non dangereux Capacité 30000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.28095,47.50496 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.504962899999995&lng=-2.2809538&fid=0x480f8d600cfbe793:0x5b656196e0e73541&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>BiocentreThibault Henry                            Mickael Abguillerm\t06 72 65 91 95                           06 34 37 34 17\"\tThibault.henry@ortec.fr        mickael.abguillerm@terrea-ouest.fr\"Voir document"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -1.70473,47.75818 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.7581622&lng=-1.7048979000000002&fid=0x480f153b7b370915:0x2c4a73c258affc59&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Platre + OM résiduelles02 99 72 97 2070000 t/an"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.84574,45.67986 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.679862899999996&lng=4.8457398&fid=0x47f4e832d9e498e3:0xc362b00e839a4b26&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\tHydrocarbures HAP BTEX PCB C10 à C39Vincent DESROCHES 06 47 44 79 71\tvincent.desroches@terenvie.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.13422,50.58167 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.5817498&lng=3.1341346000000003&fid=0x47c2d6e46f131ba5:0xaddbfa2c70640c3c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux / Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux Inertes\tFABISCH Jérémy\t03 20 74 40 40\t j.fabisch@trpj.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.39984,43.70551 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.705500799999996&lng=1.3997894&fid=0x12aea5d5fe3075bd:0xf244b1ba6ed4eaa9&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Plateforme de tri \tLaurent BOURREAU\t05 34 27 05 80\tl.bourreau@groupe-seche.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -1.44731,46.68537 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.6853014&lng=-1.4474135999999997&fid=0x48042fdf13ed4e0f:0x60fd093a857408a7&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>refus de compostage\t\t02 51 45 14 51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  00.19044,49.49762 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.54186375&lng=0.341768&fid=0x47e0303a520a47d7:0x95fafdcf5b9b6361&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres polluées ISDND déchets dangereux non dangereux ferrailles et métaux\t\t\tClément CAMOIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  07.78957,48.51711 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.5171073&lng=7.7895712&fid=0x4796cbf56981f329:0x9e86486b19855038&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux\t\t\t03 72 31 31 31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.39883,48.80807 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.219264949999996&lng=2.0516999500000006&fid=0x47e673ae5099b2ab:0xb8d7084591fc3957&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI\tAlexandre GARCIA\tTél : 07 60 08 33 28\talexandre.garcia@cosson-env.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.69004,48.27629 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.2762866&lng=2.6900282&fid=0x47e58944a009df11:0x10966141a53bc500&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Traitement des Déchets Verts Valorisation des Matériaux Inertes01 64 78 75 50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.97129,50.38854 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.3885405&lng=2.9712863999999994&fid=0x47dd34abee10200b:0x6bbdea8c9b034ebd&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Non Inertes Déchets Non Dangereux InertesM. MASQUELIER\t06 76 02 89 14\t christophe.masquelier@wanadoo.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.75574,50.46388 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=50.4638547&lng=2.7557954&fid=0x47dd3adcb6e4bcb9:0xd4155e3167456519&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux Non Inertes / Déchets Non Dangereux InertesVARET Julie\t06 67 83 34 88\tjulie.varet@societe-varet.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.64229,47.65765 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.6576518&lng=-0.6422925&fid=0x4808626971150cd9:0x450765ed10da2874&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDD\t\t\tWilliam RABES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.48091,48.24075 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.240906599999995&lng=4.4809336&fid=0x47ec3ea84099a77d:0xc01553b9bb0a064c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>03 25 43 83 06\t info@veka-recyclage.comPlastiques (PVC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.75739,48.56944 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.68076995&lng=2.50266355&fid=0x47e5f8fa471349b3:0xadc057f2f2c8558b&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> 01 55 67 60 00 ISDI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.05160,47.27677 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.276771&lng=5.051597&fid=0x47f29ea7683024fb:0x79978a6e27d7bfdf&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>TERRES POLLUÉES \t\tTERRES  INERTES\tIngénieurs Commerciaux : Thierry COTTE François LE PENNEC  Marion TABROURA-NOEL\"\t\t             06 81 58 55 78      07 62 58 48 81       06 31 50 94 90\"\tResponsable Régional Nord-Est /Centre/Sud-Est : Stéphane DELIOT – 06 70 06 75 29\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  05.38902,43.38824 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.388242299999995&lng=5.3890234999999995&fid=0x12c9ead22b5bf1d3:0xf9f646c51dc534e6&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>TERRES POLLUÉES \t\tTERRES  INERTES\tIngénieurs Commerciaux :Jérôme MÉTIVIER \"\t06 88 40 41 18\tResponsable Régional Nord-Est /Centre/Sud-Est : Stéphane DELIOT – 06 70 06 75 29\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.70533,45.69014 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.6901391&lng=-0.7053265&fid=0x480103c345b04327:0x90e3d14f304d0a66&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>TERRES POLLUÉES \t\tTERRES  INERTES\tDidier GOUY\t06 70 01 39 55\tResponsable Régionale Ouest : Aurélie JOUBERT - 07 84 23 14 70\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.18251,47.30981 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.309809699999995&lng=-2.1825083&fid=0x4805651dd3e1b227:0x1cfbc0f16a2c7c3c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>TERRES POLLUÉES \t\tTERRES  INERTES\tDidier GOUY\t06 70 01 39 55\t\"Responsable Régionale Ouest : Aurélie JOUBERT - 07 84 23 14 70\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.88769,46.59092 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=46.5908406&lng=-0.8875609999999999&fid=0x4806ebdda4d3d149:0xc924e399a5b3d802&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>TERRES POLLUÉES \t\tTERRES  INERTES\tDidier GOUY\t06 70 01 39 55\tResponsable Régionale Ouest : Aurélie JOUBERT - 07 84 23 14 70\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.15603,49.13949 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.1394994&lng=-0.1560488&fid=0x480a71ebd2480e7d:0xc5d3e3037bba16db&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>TERRES POLLUÉES \t\tTERRES  INERTES\tNormandie Joannice JULLIEN \"\t06 42 07 19 71\tResponsable Régionale Ile-De-France/Nord/Normandie : Karine DUVIVIER - 06 30 11 29 14\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -0.96745,43.82849 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.828488&lng=-0.9674476999999999&fid=0xd541e8bde58c443:0x9052950b1a32d0b1&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Bois traité (Cat. B)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  06.16148,49.22196 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.22199969999999&lng=6.162128349999999&fid=0x4795274ffffd5de7:0x5dabbfd784198f0f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Non-Dangereux\t\t\t03 72 31 31 31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.82463,49.01730 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.0173053&lng=2.8246408&fid=0x47e620026e196b6d:0x3360b756b674536e&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>ISDI Classe 3\"Nombre de camions maximum 150/joursCapacité réglementaire actuelle par an 150 000 tonnes\" Date de fin de l'autorisation d'exploiter 201801 60 95 93 93"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  01.42056,43.63783 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=43.6378324&lng=1.4205630000000002&fid=0x12aea4c8a8ab11f5:0x4b487ca93702e0dc&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>\"Plateforme de regroupement déchets dangereux/Déchèterie professionnelle/ Plateforme de regroupement déchets dangereuxInstallation de stockage de déchets non dangereux\t/ Plateforme de regroupement métauxCentre de recyclage inertes/ Installation de stockage de déchets inertes/Plateforme de regroupement métaux /Plateforme de regroupement bois/Plateforme de regroupement déchets inertes/Plateforme de regroupement papier-carton /Plateforme de regroupement plastique\tPauline ROUSSEAU\t05 32 18 88 88\tpauline.rousseau@veolia.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  04.97168,45.72181 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=45.7612&lng=4.89206&fid=0x47f4c642e018ba77:0xa084ff5f42b4ec90&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terre Végétale\tDéchets Inertes mélangés / Béton / Enrobé bitumineux / Terre non polluée\tOlivier VANVERDEGHEN\t04 78 31 32 34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.99938,48.84802 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.8480125&lng=2.9993754&fid=0x47e8a552d647dee1:0x896c668b188bcc8a&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Terres inertes \tCommercial : Damien CAILLY \t06 75 38 37 08/ 01 60 61 05 03\tdamien.cailly@wiame.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  03.62149,47.79308 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=47.793081&lng=3.6214859999999995&fid=0x47ee45fc79c54fad:0xfc50766d280885d8&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Déchets Dangereux / Déchets Non-Dangereux / Déchets Inertes\tMalory FRAYE 03 80 26 58 58  assistante-co@bourgognerecyclage.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.67838,48.87637 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.876181&lng=2.6785744000000005&fid=0x47e61ae478463169:0xf3d034577f00f25&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9326&useragent=GoogleEarth/7.3.6.9326(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Centrale de recyclage - terres inertes ISDI - terres classe 3+01 49 62 01 23 - 06 46 80 18 90siege.idf@yprema.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.63070,48.98552 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=49.02388654999999&lng=2.66641655&fid=0x47e617a72b14404b:0x6339e3420c2ee9ff&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Centrale de recyclage - terres inertes ISDI - terres classe 3+\t\t01 64 27 72 21siege.idf@yprema.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.61178,48.81732 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.8173294&lng=2.6117401000000005&fid=0x47e60f987fb79d35:0xccd98aa742dce5ed&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>Centrale de recyclage - terres inertes ISDI - terres classe 3+\t01 49 62 01 23 - 06 26 69 37 92siege.idf@yprema.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.28186,48.94312 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.943126199999995&lng=2.2818742999999997&fid=0x47e666018386d59d:0x123406302742454f&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>terres inertes ISDI - terres classe 3+\t\t01 49 62 01 23siege.idf@yprema.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.27789,48.71740 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.7173996&lng=2.2778928&fid=0x47e6771bff687f03:0xd51c8faaa4f42a47&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> terres inertes ISDI - terres classe 3+\t\t01 49 62 01 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.48119,48.78137 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.781372&lng=2.4811918&fid=0x47e60c9b2758d947:0x7460339402851f40&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html>terres inertes ISDI - terres classe 3+\t\t01 49 62 01 23 - 06 26 69 37 92siege.idf@yprema.frsiege.idf@yprema.fr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  02.01905,48.78055 ]
+    },
+    "properties": {
+    "Info":" <!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=48.780551800000005&lng=2.0190468999999998&fid=0x47e6814c97ec60f9:0x2a5472f0f66de446&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default)\";</script></body></html> terres inertes ISDI - terres classe 3+\t\t01 49 62 01 23siege.idf@yprema.fr"
+    }
+  }
+]
+}
