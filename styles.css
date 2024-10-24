@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#infoModal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000;
+}
+
+#infoModal h2 {
+    margin-top: 0;
+}
+
+#infoModal input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#map {
+    z-index: 1;
+}
