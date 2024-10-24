@@ -1,7 +1,9 @@
 // script.js
 
-// Initialisation de la carte
-const map = L.map('map').setView([48.8566, 2.3522], 13); // Centré sur Paris
+// Initialisation de la carte avec un CRS spécifique (par exemple, EPSG:3857)
+const map = L.map('map', {
+    crs: L.CRS.EPSG3857, // Utilisation du CRS EPSG:3857 par défaut
+}).setView([46.6034, 1.8883], 6); // Centré sur la France métropolitaine avec un niveau de zoom de 6
 
 // Ajout de la couche de fond
 const layers = {
