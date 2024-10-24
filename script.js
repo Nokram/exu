@@ -1,5 +1,3 @@
-// script.js
-
 // Initialiser la carte
 const map = L.map('map').setView([46.8, 2.3], 5);
 
@@ -9,101 +7,74 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
 }).addTo(map);
 
-// Initialiser le groupe de points spécifiques
-const specificPointsLayer = L.layerGroup().addTo(map);
+// Initialiser les layers
+let editableLayer = new L.FeatureGroup();
+let nonEditableLayer = L.layerGroup().addTo(map);
 
-// Fonction pour charger le fichier CSV et ajouter les points
-function loadCSV() {
-    fetch('exu.csv')
-        .then(response => response.text())
-        .then(data => {
-            const parsedData = Papa.parse(data, { header: true }).data;
+// Ajouter des points à la couche non éditable (par exemple)
+const point1 = L.marker([46.8, 2.3]).bindPopup("Point spécifique 1").addTo(nonEditableLayer);
+const point2 = L.marker([47.0, 2.1]).bindPopup("Point spécifique 2").addTo(nonEditableLayer);
 
-            // Filtrer les données avec des lat/lon valides
-            parsedData.forEach(row => {
-                const lat = parseFloat(row.lat);
-                const lon = parseFloat(row.lon);
+// Activer l'édition seulement pour `editableLayer`
+map.addLayer(editableLayer);
 
-                // Vérifier si lat et lon sont valides avant d'ajouter le point
-                if (!isNaN(lat) && !isNaN(lon)) {
-                    const point = {
-                        lat: lat,
-                        lon: lon,
-                        info: row.info || 'Aucune info disponible'
-                    };
-                    addSpecificPoint(point);
-                } else {
-                    console.warn(`Point ignoré: lat=${row.lat}, lon=${row.lon} (invalide)`);
-                }
-            });
-        })
-        .catch(error => console.error('Erreur lors du chargement du CSV:', error));
-}
-
-// Fonction pour ajouter un point spécifique
-function addSpecificPoint(point) {
-    const marker = L.marker([point.lat, point.lon]).addTo(specificPointsLayer);
-
-    // Afficher l'infobulle au survol
-    marker.bindTooltip(point.info || '', { permanent: true, direction: 'top' });
-
-    // Événement de clic pour éditer les informations
-    marker.on('click', () => {
-        document.getElementById('companyName').value = point.companyName || '';
-        document.getElementById('address').value = point.address || '';
-        document.getElementById('contact').value = point.contact || '';
-        document.getElementById('phone').value = point.phone || '';
-        document.getElementById('email').value = point.email || '';
-
-        // Enregistrer le point à modifier
-        currentEditingPoint = point;
-        showInfoModal();
-    });
-
-    // Événement de drag pour déplacer le point
-    marker.on('dragend', (e) => {
-        const markerPosition = e.target.getLatLng();
-        point.lat = markerPosition.lat;
-        point.lon = markerPosition.lng;
-    });
-
-    // Rendre le marqueur déplaçable
-    marker.dragging.enable();
-}
-
-// Charger les points à partir du fichier CSV au démarrage
-loadCSV();
-
-// Fonction pour afficher la modale
-function showInfoModal() {
-    document.getElementById('infoModal').style.display = 'block';
-}
-
-// Événement de clic pour sauvegarder les informations
-document.getElementById('saveInfo').addEventListener('click', () => {
-    currentEditingPoint.companyName = document.getElementById('companyName').value;
-    currentEditingPoint.address = document.getElementById('address').value;
-    currentEditingPoint.contact = document.getElementById('contact').value;
-    currentEditingPoint.phone = document.getElementById('phone').value;
-    currentEditingPoint.email = document.getElementById('email').value;
-
-    // Fermer la modale
-    document.getElementById('infoModal').style.display = 'none';
-
-    // Mettre à jour l'infobulle
-    specificPointsLayer.clearLayers();
-    loadCSV();  // Recharger les points pour mettre à jour l'affichage
+// Ajouter le contrôle de dessin pour la carte
+const drawControl = new L.Control.Draw({
+    edit: {
+        featureGroup: editableLayer, // Les objets à modifier
+        remove: true // Autoriser la suppression
+    },
+    draw: {
+        polygon: false,  // Désactiver le dessin de polygones
+        polyline: false, // Désactiver le dessin de lignes
+        rectangle: false, // Désactiver le dessin de rectangles
+        circle: false, // Désactiver le dessin de cercles
+        marker: true // Autoriser uniquement les marqueurs
+    }
 });
 
-// Événement de clic pour annuler les modifications
-document.getElementById('cancelInfo').addEventListener('click', () => {
-    document.getElementById('infoModal').style.display = 'none';
+map.addControl(drawControl);
+
+// Gestion des événements de dessin
+map.on(L.Draw.Event.CREATED, function (e) {
+    const layer = e.layer;
+
+    // Ajout d'un popup pour éditer les infos
+    layer.bindPopup(createPopupContent(layer)).openPopup();
+
+    // Ajouter à la couche éditable
+    editableLayer.addLayer(layer);
 });
 
-// Ajouter une couche de contrôle
-const overlayMaps = {
-    "Points Spécifiques": specificPointsLayer
-};
+// Fonction pour créer un contenu de popup éditable
+function createPopupContent(layer) {
+    const popupContent = `
+        <form>
+            <label for="name">Nom:</label>
+            <input type="text" id="name" name="name" value="Point sans nom"><br><br>
+            <label for="description">Description:</label>
+            <textarea id="description" name="description">Description du point</textarea><br><br>
+            <input type="button" value="Enregistrer" onclick="saveData(${layer._leaflet_id})">
+        </form>
+    `;
+    return popupContent;
+}
 
-// Ajouter le contrôle des couches
-L.control.layers(null, overlayMaps).addTo(map);
+// Sauvegarde des données (simulation dans cet exemple)
+function saveData(layerId) {
+    const layer = editableLayer.getLayer(layerId);
+    const popup = layer.getPopup();
+
+    // Récupérer les données du formulaire
+    const name = document.getElementById("name").value;
+    const description = document.getElementById("description").value;
+
+    // Mettre à jour le popup avec les nouvelles infos
+    layer.bindPopup(`<b>${name}</b><br>${description}`).openPopup();
+}
+
+// Ajouter un contrôle pour cocher/décocher les layers
+L.control.layers(null, {
+    'Points non éditables': nonEditableLayer,
+    'Points éditables': editableLayer
+}).addTo(map);
