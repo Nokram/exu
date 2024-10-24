@@ -44,12 +44,12 @@ function loadCSVData() {
         complete: function(results) {
             const data = results.data;
             data.forEach(row => {
-                const lat = parseFloat(row.lat);
-                const lon = parseFloat(row.lon);
-                const info = row.info;
+                const lat = parseFloat(row.lat); // Utilisation de 'lat'
+                const lon = parseFloat(row.lon); // Utilisation de 'lon'
+                const info = row.info; // Utilisation de 'info'
 
                 if (!isNaN(lat) && !isNaN(lon)) {
-                    const marker = L.marker([lat, lon]).bindPopup(`<b>Informations</b><br>${info}`);
+                    const marker = L.marker([lat, lon]).bindPopup(`<b>${info}</b>`); // Popup avec l'info
                     dataLayer.addLayer(marker); // Ajoute chaque marker au layer group
                 }
             });
