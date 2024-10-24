@@ -43,14 +43,6 @@ map.on(L.Draw.Event.CREATED, (event) => {
     drawnItems.addLayer(layer);
 });
 
-// Écoute des clics sur la carte pour ajouter un marqueur
-map.on('click', function(e) {
-    const popup = L.popup()
-        .setLatLng(e.latlng)
-        .setContent("Vous avez cliqué sur la carte à : " + e.latlng.toString())
-        .openOn(map);
-});
-
 // Fonction pour charger et afficher les données GeoJSON
 function loadGeoJSON() {
     fetch("exu.geojson")  // Assurez-vous que le fichier GeoJSON est accessible
@@ -63,9 +55,11 @@ function loadGeoJSON() {
         .then(data => {
             const geojsonLayer = L.geoJSON(data, {
                 onEachFeature: function (feature, layer) {
-                    if (feature.properties && feature.properties.info) {
-                        layer.bindPopup("<b>" + feature.properties.info + "</b>");
-                    }
+                    // Ajout d'un événement pour afficher le popup au clic sur le point
+                    layer.on('click', function() {
+                        const popupContent = "<b>Info:</b> " + feature.properties.info; // Remplacez 'info' par le nom de la propriété que vous souhaitez afficher
+                        layer.bindPopup(popupContent).openPopup();
+                    });
                 }
             });
             
