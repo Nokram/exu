@@ -1,5 +1,8 @@
 // script.js
 
+// Clé de l'API ORS
+const apiKey = '5b3ce3597851110001cf6248b5a9f8396fba4a58a7bee5e4ad0a05c8';
+
 // Initialisation de la carte avec un CRS spécifique (par exemple, EPSG:3857)
 const map = L.map('map', {
     crs: L.CRS.EPSG3857,
@@ -48,6 +51,7 @@ function loadGeoJSON() {
                                 <p><strong>X Coord :</strong> <input type="text" value="${feature.properties.xcoord}" id="xcoord-${feature.id}" /></p>
                                 <p><strong>Y Coord :</strong> <input type="text" value="${feature.properties.ycoord}" id="ycoord-${feature.id}" /></p>
                                 <button onclick="updateFeature(${feature.id})">Modifier</button>
+                                <button onclick="getRoute(${feature.properties.Lat}, ${feature.properties.Lon})">Itinéraire</button>
                             </div>
                         `;
 
@@ -99,6 +103,7 @@ function updateGeoJSONLayer() {
                         <p><strong>X Coord :</strong> <input type="text" value="${feature.properties.xcoord}" id="xcoord-${feature.id}" /></p>
                         <p><strong>Y Coord :</strong> <input type="text" value="${feature.properties.ycoord}" id="ycoord-${feature.id}" /></p>
                         <button onclick="updateFeature(${feature.id})">Modifier</button>
+                        <button onclick="getRoute(${feature.properties.Lat}, ${feature.properties.Lon})">Itinéraire</button>
                     </div>
                 `;
                 layer.bindPopup(popupContent).openPopup();
@@ -107,6 +112,41 @@ function updateGeoJSONLayer() {
             drawnItems.addLayer(layer); // Ajout du layer mis à jour
         }
     }).addTo(drawnItems);
+}
+
+// Fonction pour obtenir l'itinéraire entre deux points
+function getRoute(startLat, startLon) {
+    const endLat = 47.43679; // Remplace avec la latitude de la destination
+    const endLon = 0.80195; // Remplace avec la longitude de la destination
+    const url = `https://api.openrouteservice.org/v2/directions/driving-car?api_key=${apiKey}&start=${startLon},${startLat}&end=${endLon},${endLat}`;
+
+    fetch(url)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Erreur réseau lors du chargement de l\'itinéraire');
+            }
+            return response.json();
+        })
+        .then(data => {
+            if (!data.routes || data.routes.length === 0) {
+                throw new Error('Aucun itinéraire trouvé');
+            }
+            const route = data.routes[0]; // Prend le premier itinéraire
+            addRouteToMap(route); // Ajoute l'itinéraire à la carte
+        })
+        .catch(error => console.error('Erreur lors du chargement de l\'itinéraire :', error));
+}
+
+// Fonction pour ajouter l'itinéraire à la carte
+function addRouteToMap(route) {
+    const coordinates = route.geometry.coordinates;
+    const latlngs = coordinates.map(coord => [coord[1], coord[0]]); // Conversion en [lat, lng]
+
+    // Création de la polyline pour l'itinéraire
+    const routeLine = L.polyline(latlngs, { color: 'blue' }).addTo(map);
+    
+    // Centrer la carte sur l'itinéraire
+    map.fitBounds(routeLine.getBounds());
 }
 
 // Fonction pour mettre à jour la table attributaire
