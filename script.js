@@ -68,17 +68,24 @@ function fillAttributeTable() {
     const tbody = document.getElementById('attributeBody');
     tbody.innerHTML = ''; // Réinitialiser le corps de la table
 
-    geojsonData.features.forEach(feature => {
+    geojsonData.features.forEach((feature, index) => {
         const row = document.createElement('tr');
+        
         row.innerHTML = `
-            <td>${feature.properties.Lat}</td>
-            <td>${feature.properties.Lon}</td>
-            <td>${feature.properties.Info}</td>
-            <td>${feature.properties.xcoord}</td>
-            <td>${feature.properties.ycoord}</td>
+            <td><input type="text" value="${feature.properties.Lat}" onchange="updateProperty(${index}, 'Lat', this.value)" /></td>
+            <td><input type="text" value="${feature.properties.Lon}" onchange="updateProperty(${index}, 'Lon', this.value)" /></td>
+            <td><input type="text" value="${feature.properties.Info}" onchange="updateProperty(${index}, 'Info', this.value)" /></td>
+            <td><input type="text" value="${feature.properties.xcoord}" onchange="updateProperty(${index}, 'xcoord', this.value)" /></td>
+            <td><input type="text" value="${feature.properties.ycoord}" onchange="updateProperty(${index}, 'ycoord', this.value)" /></td>
         `;
+        
         tbody.appendChild(row);
     });
+}
+
+// Fonction pour mettre à jour une propriété dans le GeoJSON
+function updateProperty(index, property, value) {
+    geojsonData.features[index].properties[property] = value;
 }
 
 // Événement pour afficher ou masquer la table attributaire
