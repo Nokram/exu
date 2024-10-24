@@ -93,5 +93,16 @@ map.on('draw:edited', (event) => {
     });
 });
 
+// Écoute des événements de suppression (mais on ne supprime rien)
+map.on('draw:deleted', (event) => {
+    const layers = event.layers;
+    layers.eachLayer((layer) => {
+        // On peut loguer ou traiter la couche ici si besoin
+        console.log('Tentative de suppression d\'un layer (annulée):', layer);
+    });
+    // Éviter la suppression de la couche principale
+    alert('La suppression de la couche GeoJSON est désactivée. Vous pouvez seulement supprimer des objets individuels.');
+});
+
 // Charger les données GeoJSON dès que la carte est prête
 loadGeoJSON();
