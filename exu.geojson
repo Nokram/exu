@@ -1,7 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "exu1",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Lat": 49.21608, "Lon": -0.29654, "Info": " Solvalor CAEN", "field_4": null, "field_5": null, "field_6": null, "field_7": null, "field_8": null, "field_9": null, "field_10": null, "field_11": null, "field_12": null, "field_13": null, "field_14": null, "field_15": null, "xcoord": -0.29654, "ycoord": 49.21608 }, "geometry": { "type": "Point", "coordinates": [ -0.29654, 49.21608 ] } },
 { "type": "Feature", "properties": { "Lat": 47.43679, "Lon": 0.80195, "Info": " <!DOCTYPE html><html><head></head><body><script type=text/javascript>window.location.href=https://www.google.com/earth/rpc/entity?lat=47.43361180000001&lng=0.7423716&fid=0x47fcd388a62f2095:0x34b3885aacb0d36c&hl=fr&gl=fr&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);fr;kml:2.2;client:Pro;type:default);</script></body></html>Geoffrey DRUGEON : 06 31 66 31 73 geoffrey.drugeon@ortec.fr Mickaël ABGUILLERM : 06 34 37 34 17 mickael.abguillerm@ortec.fr Yann OLANIER : 06 27 16 49 32 yann.olanier@ortec.fr", "field_4": null, "field_5": null, "field_6": null, "field_7": null, "field_8": null, "field_9": null, "field_10": null, "field_11": null, "field_12": null, "field_13": null, "field_14": null, "field_15": null, "xcoord": 0.80195, "ycoord": 47.43679 }, "geometry": { "type": "Point", "coordinates": [ 0.80195, 47.43679 ] } },
