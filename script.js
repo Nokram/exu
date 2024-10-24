@@ -24,15 +24,15 @@ map.addLayer(drawnItems);
 
 const drawControl = new L.Control.Draw({
     edit: {
-        featureGroup: drawnItems
+        featureGroup: drawnItems, // Les éléments dessinés seront ajoutés ici
     },
     draw: {
         polyline: false,   // Désactiver le dessin de lignes
         polygon: false,    // Désactiver le dessin de polygones
         rectangle: false,  // Désactiver le dessin de rectangles
         circle: false,     // Désactiver le dessin de cercles
+        circlemarker: false, // Désactiver le dessin de cercles marqués
         marker: true,      // Activer le dessin de marqueurs
-        circlemarker: false // Désactiver le dessin de cercles marqués
     }
 });
 map.addControl(drawControl);
@@ -71,6 +71,9 @@ function loadGeoJSON() {
                         // Crée et ouvre le popup
                         layer.bindPopup(popupContent).openPopup();
                     });
+
+                    // Ajout de la couche à drawnItems pour permettre l'édition
+                    drawnItems.addLayer(layer);
                 }
             });
             
@@ -80,6 +83,15 @@ function loadGeoJSON() {
         })
         .catch(error => console.error('Erreur lors du chargement du GeoJSON :', error));
 }
+
+// Écoute des événements d'édition
+map.on('draw:edited', (event) => {
+    const layers = event.layers;
+    layers.eachLayer((layer) => {
+        // Ici vous pouvez faire quelque chose avec le layer après l'édition
+        console.log('Layer édité:', layer);
+    });
+});
 
 // Charger les données GeoJSON dès que la carte est prête
 loadGeoJSON();
