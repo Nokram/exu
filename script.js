@@ -42,20 +42,16 @@ function loadGeoJSON() {
                         const popupContent = `
                             <div>
                                 <h3>Détails de l'emplacement</h3>
-                                <p><strong>Latitude :</strong> ${feature.properties.Lat}</p>
-                                <p><strong>Longitude :</strong> ${feature.properties.Lon}</p>
-                                <p><strong>Info :</strong> ${feature.properties.Info}</p>
-                                <p><strong>X Coord :</strong> ${feature.properties.xcoord}</p>
-                                <p><strong>Y Coord :</strong> ${feature.properties.ycoord}</p>
+                                <p><strong>Latitude :</strong> <input type="text" value="${feature.properties.Lat}" id="lat-${feature.id}" /></p>
+                                <p><strong>Longitude :</strong> <input type="text" value="${feature.properties.Lon}" id="lon-${feature.id}" /></p>
+                                <p><strong>Info :</strong> <input type="text" value="${feature.properties.Info}" id="info-${feature.id}" /></p>
+                                <p><strong>X Coord :</strong> <input type="text" value="${feature.properties.xcoord}" id="xcoord-${feature.id}" /></p>
+                                <p><strong>Y Coord :</strong> <input type="text" value="${feature.properties.ycoord}" id="ycoord-${feature.id}" /></p>
+                                <button onclick="updateFeature(${feature.id})">Modifier</button>
                             </div>
                         `;
 
                         layer.bindPopup(popupContent).openPopup();
-                    });
-
-                    // Éditer le marker
-                    layer.on('edit', function() {
-                        updateGeoJSONLayer();
                     });
 
                     drawnItems.addLayer(layer);
@@ -66,6 +62,51 @@ function loadGeoJSON() {
             geojsonLayer.addTo(map);
         })
         .catch(error => console.error('Erreur lors du chargement du GeoJSON :', error));
+}
+
+// Fonction pour mettre à jour les propriétés de la feature
+function updateFeature(featureId) {
+    const lat = document.getElementById(`lat-${featureId}`).value;
+    const lon = document.getElementById(`lon-${featureId}`).value;
+    const info = document.getElementById(`info-${featureId}`).value;
+    const xcoord = document.getElementById(`xcoord-${featureId}`).value;
+    const ycoord = document.getElementById(`ycoord-${featureId}`).value;
+
+    const feature = geojsonData.features.find(f => f.id === featureId);
+    if (feature) {
+        feature.properties.Lat = lat;
+        feature.properties.Lon = lon;
+        feature.properties.Info = info;
+        feature.properties.xcoord = xcoord;
+        feature.properties.ycoord = ycoord;
+
+        updateGeoJSONLayer(); // Met à jour le layer GeoJSON pour refléter les changements
+    }
+}
+
+// Fonction pour mettre à jour le layer GeoJSON avec les modifications
+function updateGeoJSONLayer() {
+    drawnItems.clearLayers(); // Effacer les layers précédents
+    L.geoJSON(geojsonData, {
+        onEachFeature: function (feature, layer) {
+            layer.on('click', function() {
+                const popupContent = `
+                    <div>
+                        <h3>Détails de l'emplacement</h3>
+                        <p><strong>Latitude :</strong> <input type="text" value="${feature.properties.Lat}" id="lat-${feature.id}" /></p>
+                        <p><strong>Longitude :</strong> <input type="text" value="${feature.properties.Lon}" id="lon-${feature.id}" /></p>
+                        <p><strong>Info :</strong> <input type="text" value="${feature.properties.Info}" id="info-${feature.id}" /></p>
+                        <p><strong>X Coord :</strong> <input type="text" value="${feature.properties.xcoord}" id="xcoord-${feature.id}" /></p>
+                        <p><strong>Y Coord :</strong> <input type="text" value="${feature.properties.ycoord}" id="ycoord-${feature.id}" /></p>
+                        <button onclick="updateFeature(${feature.id})">Modifier</button>
+                    </div>
+                `;
+                layer.bindPopup(popupContent).openPopup();
+            });
+
+            drawnItems.addLayer(layer); // Ajout du layer mis à jour
+        }
+    }).addTo(drawnItems);
 }
 
 // Fonction pour mettre à jour la table attributaire
@@ -92,35 +133,6 @@ function fillAttributeTable() {
 function updateProperty(index, property, value) {
     geojsonData.features[index].properties[property] = value;
     updateGeoJSONLayer(); // Met à jour le layer GeoJSON pour refléter les changements
-}
-
-// Fonction pour mettre à jour le layer GeoJSON avec les modifications
-function updateGeoJSONLayer() {
-    drawnItems.clearLayers(); // Effacer les layers précédents
-    L.geoJSON(geojsonData, {
-        onEachFeature: function (feature, layer) {
-            layer.on('click', function() {
-                const popupContent = `
-                    <div>
-                        <h3>Détails de l'emplacement</h3>
-                        <p><strong>Latitude :</strong> ${feature.properties.Lat}</p>
-                        <p><strong>Longitude :</strong> ${feature.properties.Lon}</p>
-                        <p><strong>Info :</strong> ${feature.properties.Info}</p>
-                        <p><strong>X Coord :</strong> ${feature.properties.xcoord}</p>
-                        <p><strong>Y Coord :</strong> ${feature.properties.ycoord}</p>
-                    </div>
-                `;
-                layer.bindPopup(popupContent).openPopup();
-            });
-
-            // Édition du marker
-            layer.on('edit', function() {
-                updateGeoJSONLayer();
-            });
-
-            drawnItems.addLayer(layer); // Ajout du layer mis à jour
-        }
-    }).addTo(drawnItems);
 }
 
 // Événement pour afficher ou masquer la table attributaire
