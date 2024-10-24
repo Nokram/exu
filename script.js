@@ -57,7 +57,18 @@ function loadGeoJSON() {
                 onEachFeature: function (feature, layer) {
                     // Ajout d'un événement pour afficher le popup au clic sur le point
                     layer.on('click', function() {
-                        const popupContent = "<b>Info:</b> " + feature.properties.info; // Remplacez 'info' par le nom de la propriété que vous souhaitez afficher
+                        const popupContent = `
+                            <div>
+                                <h3>Détails de l'emplacement</h3>
+                                <p><strong>Latitude :</strong> ${feature.properties.Lat}</p>
+                                <p><strong>Longitude :</strong> ${feature.properties.Lon}</p>
+                                <p><strong>Info :</strong> ${feature.properties.Info}</p>
+                                <p><strong>X Coord :</strong> ${feature.properties.xcoord}</p>
+                                <p><strong>Y Coord :</strong> ${feature.properties.ycoord}</p>
+                            </div>
+                        `;
+
+                        // Crée et ouvre le popup
                         layer.bindPopup(popupContent).openPopup();
                     });
                 }
