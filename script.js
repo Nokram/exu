@@ -3,7 +3,7 @@
 // Initialisation de la carte avec un CRS spécifique (par exemple, EPSG:3857)
 const map = L.map('map', {
     crs: L.CRS.EPSG3857,
-}).setView([46.6034, 1.8883], 6);
+}).setView([46.6034, 1.8883], 6); // Centré sur la France métropolitaine avec un niveau de zoom de 6
 
 // Ajout de la couche de fond
 const layers = {
@@ -27,7 +27,7 @@ let geojsonData;
 
 // Fonction pour charger et afficher les données GeoJSON
 function loadGeoJSON() {
-    fetch("exu.geojson")
+    fetch("exu.geojson")  // Assurez-vous que le fichier GeoJSON est accessible
         .then(response => {
             if (!response.ok) {
                 throw new Error('Erreur réseau lors du chargement du GeoJSON');
@@ -53,6 +53,11 @@ function loadGeoJSON() {
                         layer.bindPopup(popupContent).openPopup();
                     });
 
+                    // Éditer le marker
+                    layer.on('edit', function() {
+                        updateGeoJSONLayer();
+                    });
+
                     drawnItems.addLayer(layer);
                 }
             });
@@ -63,7 +68,7 @@ function loadGeoJSON() {
         .catch(error => console.error('Erreur lors du chargement du GeoJSON :', error));
 }
 
-// Fonction pour remplir la table attributaire
+// Fonction pour mettre à jour la table attributaire
 function fillAttributeTable() {
     const tbody = document.getElementById('attributeBody');
     tbody.innerHTML = ''; // Réinitialiser le corps de la table
@@ -86,6 +91,36 @@ function fillAttributeTable() {
 // Fonction pour mettre à jour une propriété dans le GeoJSON
 function updateProperty(index, property, value) {
     geojsonData.features[index].properties[property] = value;
+    updateGeoJSONLayer(); // Met à jour le layer GeoJSON pour refléter les changements
+}
+
+// Fonction pour mettre à jour le layer GeoJSON avec les modifications
+function updateGeoJSONLayer() {
+    drawnItems.clearLayers(); // Effacer les layers précédents
+    L.geoJSON(geojsonData, {
+        onEachFeature: function (feature, layer) {
+            layer.on('click', function() {
+                const popupContent = `
+                    <div>
+                        <h3>Détails de l'emplacement</h3>
+                        <p><strong>Latitude :</strong> ${feature.properties.Lat}</p>
+                        <p><strong>Longitude :</strong> ${feature.properties.Lon}</p>
+                        <p><strong>Info :</strong> ${feature.properties.Info}</p>
+                        <p><strong>X Coord :</strong> ${feature.properties.xcoord}</p>
+                        <p><strong>Y Coord :</strong> ${feature.properties.ycoord}</p>
+                    </div>
+                `;
+                layer.bindPopup(popupContent).openPopup();
+            });
+
+            // Édition du marker
+            layer.on('edit', function() {
+                updateGeoJSONLayer();
+            });
+
+            drawnItems.addLayer(layer); // Ajout du layer mis à jour
+        }
+    }).addTo(drawnItems);
 }
 
 // Événement pour afficher ou masquer la table attributaire
@@ -97,3 +132,25 @@ document.getElementById('toggleTable').addEventListener('click', () => {
 
 // Charger les données GeoJSON dès que la carte est prête
 loadGeoJSON();
+
+// Ajout d'un marker
+const drawControl = new L.Control.Draw({
+    edit: {
+        featureGroup: drawnItems
+    },
+    draw: {
+        polyline: false,
+        polygon: false,
+        rectangle: false,
+        circle: false,
+        marker: true, // On permet seulement d'ajouter des markers
+        circlemarker: false
+    }
+});
+map.addControl(drawControl);
+
+// Écoute des événements de dessin
+map.on(L.Draw.Event.CREATED, (event) => {
+    const layer = event.layer;
+    drawnItems.addLayer(layer); // Ajout du marker au groupe de couches
+});
