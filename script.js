@@ -57,6 +57,37 @@ function updateRouteSummary(routeFeature) {
 // Initialize markers for start and end points
 let startMarker, endMarker;
 
+// Load GeoJSON data and add points to the map
+async function loadGeoJSON() {
+    const response = await fetch('exu.geojson'); // Chemin vers le fichier GeoJSON
+    const geojsonData = await response.json();
+    
+    const geoJsonLayer = L.geoJSON(geojsonData, {
+        onEachFeature: (feature, layer) => {
+            layer.on('click', () => {
+                if (endMarker) {
+                    // Si un marqueur d'arrivée existe, recalculer le trajet
+                    fetchRoute(startMarker.getLatLng(), feature.geometry.coordinates);
+                } else {
+                    // Sinon, définir le marqueur d'arrivée
+                    endMarker = L.marker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], { draggable: true }).addTo(map)
+                        .bindPopup(feature.properties.name)
+                        .openPopup();
+                    endMarker.on('dragend', () => {
+                        fetchRoute(startMarker.getLatLng(), endMarker.getLatLng());
+                    });
+
+                    // Fetch route once both markers are set
+                    fetchRoute(startMarker.getLatLng(), endMarker.getLatLng());
+                }
+            });
+        }
+    }).addTo(map);
+}
+
+// Call the function to load GeoJSON data
+loadGeoJSON();
+
 // Add click event to set start and end points on map click
 map.on('click', (e) => {
     if (!startMarker) {
@@ -70,7 +101,7 @@ map.on('click', (e) => {
             }
         });
     } else if (!endMarker) {
-        // Set the end point
+        // Set the end point (enabling user to set a point manually)
         endMarker = L.marker(e.latlng, { draggable: true }).addTo(map)
             .bindPopup("Point d'arrivée")
             .openPopup();
