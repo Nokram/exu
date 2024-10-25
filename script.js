@@ -64,6 +64,15 @@ async function loadGeoJSON() {
     
     const geoJsonLayer = L.geoJSON(geojsonData, {
         onEachFeature: (feature, layer) => {
+            // Créer une chaîne de caractères contenant toutes les propriétés
+            let propertiesText = '';
+            for (const [key, value] of Object.entries(feature.properties)) {
+                propertiesText += `${key}: ${value}<br>`;
+            }
+
+            // Lier le tooltip à la couche avec les propriétés
+            layer.bindTooltip(propertiesText, { permanent: false, sticky: true });
+
             layer.on('click', () => {
                 if (endMarker) {
                     // Si un marqueur d'arrivée existe, recalculer le trajet
