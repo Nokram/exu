@@ -1,34 +1,52 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr"> <!-- Changement de la langue à "fr" -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carte Leaflet avec GeoJSON</title>
+    <title>Carte Leaflet avec Routage ORS</title> <!-- Titre en français -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet-draw/dist/leaflet.draw.css" />
-    <link rel="stylesheet" href="style.css"> <!-- Lien vers le CSS -->
+    <style>
+        body {
+            display: flex;
+            font-family: Arial, sans-serif; /* Police pour une meilleure lisibilité */
+        }
+        #summary-panel {
+            width: 250px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-right: 1px solid #ccc;
+            overflow-y: auto; /* Ajout pour faire défiler si nécessaire */
+        }
+        #map {
+            width: 100%;
+            height: 500px;
+        }
+        .reset-button {
+            background-color: #f44336; /* Couleur rouge */
+            color: white; /* Texte blanc */
+            border: none; /* Pas de bordure */
+            padding: 10px; /* Espacement interne */
+            cursor: pointer; /* Curseur de la souris */
+            border-radius: 5px; /* Coins arrondis */
+            margin-bottom: 10px; /* Marge en bas */
+        }
+    </style>
 </head>
 <body>
-    <div id="map"></div>
-    <div id="attributeTable" style="display:none;">
-        <table id="attributes" border="1">
-            <thead>
-                <tr>
-                    <th>Latitude</th>
-                    <th>Longitude</th>
-                    <th>Info</th>
-                    <th>X Coord</th>
-                    <th>Y Coord</th>
-                </tr>
-            </thead>
-            <tbody id="attributeBody"></tbody>
-        </table>
+    <div id="summary-panel">
+        <label for="transport-mode">Mode de transport :</label>
+        <select id="transport-mode">
+            <option value="driving-car">Voiture</option>
+            <option value="driving-hgv">Camion</option>
+        </select>
+
+        <button class="reset-button" id="resetButton">Réinitialiser le trajet</button>
+        <h2>Résumé du Trajet</h2>
+        <p id="route-summary">Aucun trajet sélectionné.</p>
     </div>
-    <button id="toggleTable">Afficher/Masquer Table Attributaire</button>
+    <div id="map"></div>
+    
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/leaflet-draw/dist/leaflet.draw.js"></script>
-    <script src="script.js"></script>
-
+    <script src="script.js"></script> <!-- Inclusion du fichier JavaScript -->
 </body>
-
 </html>
